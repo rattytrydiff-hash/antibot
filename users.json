@@ -1,0 +1,8 @@
+{
+  "users": {
+    "admin": "$2a$10$1xFnmg5PeysOo1DZlpT2POhVKre1MVAngtQJmnXvZCBd9hfExQFJy",
+    "test": "$2a$10$bMifJqIO.ejFer.lARyYjuGU6/2Fp1lgdhbpC3ZnlsR/QCbUZB95S",
+    "ratty": "$2a$10$nXyEaZYbBZUTE.TE1M5lHe0Q2uevotXoGapqT8qCDikFvkVOe.PBK",
+    "ratty1": "$2a$10$gE4mLLpukDFuQ/lJopk/ZehdVEYACzJ3ZmblTSdwBAzoCkZzcujUe"
+  }
+}

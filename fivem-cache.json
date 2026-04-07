@@ -1,0 +1,5927 @@
+{
+  "fetchedAt": "2026-04-06T22:50:20.635Z",
+  "stats": {
+    "totalServers": 393,
+    "totalPlayers": 10201,
+    "activeServers": 136,
+    "gta5Instances": 393
+  },
+  "systemStatus": {
+    "undetected": 2,
+    "warning": 0,
+    "stop": 0,
+    "programs": [
+      {
+        "id": "cmdv3",
+        "name": "CMD V3 PREMIUM",
+        "description": "สามารถเล่นได้ทุกประเทศ — รองรับทุกเซิร์ฟเวอร์",
+        "image": "https://i.postimg.cc/mD8T1hH6/cmdv3.png",
+        "status": "undetected"
+      },
+      {
+        "id": "skynet",
+        "name": "CMD SKYNET",
+        "description": "ครบจบในตัวเดียว — ใช้งานง่าย มีหลายฟังก์ชัน",
+        "image": "https://i.postimg.cc/Qtx8C78n/skynet.png",
+        "status": "undetected"
+      }
+    ]
+  },
+  "servers": [
+    {
+      "endpoint": "v8d8mr",
+      "name": "SHARK COMMUNITY",
+      "sub": "discord.gg/sharkcommunity · th, shark, community, roleplay, thailand, esx, rp, fivemthailand,esx",
+      "players": 1318,
+      "maxPlayers": 2040,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/v8d8mr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/v8d8mr/2116168264.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qda4v6",
+      "name": "LUV TOWN OFFICIAL | RP",
+      "sub": "BY [LUV TEAM] · default",
+      "players": 593,
+      "maxPlayers": 1669,
+      "gametype": "",
+      "badge": {
+        "type": "launcher",
+        "text": "Launcher"
+      },
+      "connect": "https://cfx.re/join/qda4v6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qda4v6/920294544.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "48m498",
+      "name": "COMMU1",
+      "sub": "COMMU1 · default, Serious RolePlay, RolePlay, TH, Training, Esport,esx",
+      "players": 540,
+      "maxPlayers": 1500,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่มีระบบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/48m498",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgrl9r",
+      "name": "สตาร์ สามจุดศูนย์ @RebirthzVPS",
+      "sub": "สตาร์ สามจุดศูนย์ · TH,Serious RolePlay,esx",
+      "players": 454,
+      "maxPlayers": 1650,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgrl9r",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgrl9r/435889473.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xmdexr",
+      "name": "Wavevy City",
+      "sub": "BY [WAVEVY CITY DEV TEAM] · esx, roleplay, reallife,esx",
+      "players": 408,
+      "maxPlayers": 1619,
+      "gametype": "WAVEVY CITY│BACKEND BY [WAVEVY CITY DEV TEAM]",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xmdexr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xmdexr/-1805144800.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "89axmm",
+      "name": "Villain GenZ @HOSTIFY",
+      "sub": "discord.gg/villaincity · TH, RolePlay,,esx",
+      "players": 387,
+      "maxPlayers": 2048,
+      "gametype": "Powered by ESX, CENSOR",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/89axmm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/89axmm/-527178078.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lerrldv",
+      "name": "แอดลาส ซิตี้",
+      "sub": "เปิดใหม่ ฟรีไวริส แจกไม้คริร้อย ฟาร์มง่าย สังคมดี แอดมินดูแลดี 24 ชม ! · default,esx",
+      "players": 383,
+      "maxPlayers": 1888,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lerrldv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lerrldv/1579193940.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "554g3z",
+      "name": "เฮฟวี่ซิตี้มาเเล้วจ้า",
+      "sub": "เฮฟวี่ซิตี้มาเเล้วจ้า · th-TH, th, roleplay, official, fivemthailand, fivem, community, esx,esx",
+      "players": 345,
+      "maxPlayers": 1800,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/554g3z",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/554g3z/636400082.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "893bz3",
+      "name": "ม็อกกี้ คันทรี่",
+      "sub": "ม็อกกี้ คันทรี่ · default,esx",
+      "players": 314,
+      "maxPlayers": 1500,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/893bz3",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "z8gx49",
+      "name": "4KING SOCUTE",
+      "sub": "➜ ฟรีไวลิส สังคมดี อาวุธฟรี รถฟรี ▐ เซิร์ฟแนวโรงเรียนเปิดใหม่ ▐ Discord.gg/4kingsocute ▐ SCHOOL & COMMUNITY  · 4king, pvp, thailand thai, school, pvp,esx",
+      "players": 280,
+      "maxPlayers": 1068,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/z8gx49",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/z8gx49/-207469127.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "dma8l5",
+      "name": "UR Town",
+      "sub": "UR TOWN | ฟาร์มง่าย UI สวย แจกอาวุธ + ไม้คริ 100 แอดมินดูแล 24 ชม. · thailand, community, roleplay, rp,esx",
+      "players": 259,
+      "maxPlayers": 1300,
+      "gametype": "Bubbu Dev",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/dma8l5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/dma8l5/-1197123874.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ma7yo9",
+      "name": "64BIT 2.0 NEW LIFE",
+      "sub": "default, rp, fivem, 64BIT 2.0 NEW LIFE,esx",
+      "players": 237,
+      "maxPlayers": 1164,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/ma7yo9",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pjyya7",
+      "name": "[ 🌏 244 ] 💗 ไพรเวท ซิตี้ คอมมูนิตี้ โรลเพลย์ 💗 |  Discord.gg/PrivateCity",
+      "sub": "➜ ฟรีไวริส สังคมดี ฟาร์มง่าย ┃ กรอกข้อมูลเข้าได้เลย ┃ Discord.gg/PrivateCity ┃ COMMUNITY ROLEPLAY⭐ · th-TH, TH, roleplay, private, privaterp, rp, fivem, thailand, fivemthailand, community,esx",
+      "players": 235,
+      "maxPlayers": 2048,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/pjyya7",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pjyya7/-82739230.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "m8pd7v",
+      "name": "LAST CITY",
+      "sub": "BY LAST STUDIO | ฟรีไวริส ฟาร์มง่าย | กรอกข้อมูลเข้าได้เลย | discord.gg/lastcityrp · default, esx, roleplay, reallife,esx",
+      "players": 226,
+      "maxPlayers": 1024,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/m8pd7v",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/m8pd7v/186837683.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "z5go84",
+      "name": "ไฮเปอร์ทาว 2.0",
+      "sub": "discord.gg/hypertown | Create By. DaffyProduction · th, thai, thailand, default, esx, esx legacy, legacy, official, roleplay, rp, community,esx",
+      "players": 212,
+      "maxPlayers": 1499,
+      "gametype": "Daffy Production",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/z5go84",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/z5go84/141987403.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vz6dak",
+      "name": "WIP TOWN | 2.0",
+      "sub": "Managed by WIP TEAM · FiveM,Roleplay,wip,WIPTOWN,WIP,esx",
+      "players": 209,
+      "maxPlayers": 1500,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/vz6dak",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vz6dak/1933790949.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kryevd",
+      "name": "มัชกิ้น 2.0 สคริปไม้ลั่นๆ",
+      "sub": "มัชกิ้น 2.0 คริลั่นๆ หนุ่มหล่อสาวสวย คอมมูนิตี้ดี สังคมดี · roleplay,cute,THAILAND,community,เปิดใหม่,Th,th,esx",
+      "players": 198,
+      "maxPlayers": 1024,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/kryevd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kryevd/-1266895002.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "963mjm",
+      "name": "BKK CITY @RebirthzVPS",
+      "sub": "BKK OFFICIAL · BKK, Community, official, Roleplay, Fivem, FivemThailand,esx",
+      "players": 163,
+      "maxPlayers": 1024,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/963mjm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/963mjm/1556067184.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lerrl5v",
+      "name": "Gambet School",
+      "sub": "เซิฟแนวโรงเรียนแจกฟรีไม้มีดเข้ามาถึงเล่นได้เลย #แอดมินดูแล24ชม. #NO-TOXIC #สังคมดี · school,esx",
+      "players": 157,
+      "maxPlayers": 888,
+      "gametype": "Gambet X School",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/lerrl5v",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lerrl5v/-1659335825.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3evrzr",
+      "name": "WHAT UNIVERSAL Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 151,
+      "maxPlayers": 1500,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/3evrzr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3evrzr/810148255.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "9dbm8a",
+      "name": "FRESH TOWN 1.0 @HOSTIFY",
+      "sub": "TH, RolePlay, freshtown, Roleplay,esx",
+      "players": 146,
+      "maxPlayers": 950,
+      "gametype": "FRESH TOWN",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/9dbm8a",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/9dbm8a/821221905.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jyxmxp",
+      "name": "WHAT SPACE 3.0 Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT SPACE DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 141,
+      "maxPlayers": 1400,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/jyxmxp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jyxmxp/1345910522.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jj76yp",
+      "name": "#1 XD BY CHICKEN-XD | discord.gg/4kingxd",
+      "sub": "กดเข้าได้เลย discord.gg/4kingxd XD4KINGXDS4KINGSCHOOLLASTLKKWHATTRYFORPLAYPIGHEHAPARTYCOMMULUVFAMILYCUTESTARDOWPLAYShARkGODOFSTORYSOMEONEHAVEYOUMIDNIGHTRACECARTRAININGKILL4KINGREGENDARYPIGGYKUKKUK · e",
+      "players": 129,
+      "maxPlayers": 1168,
+      "gametype": "XD-BASE",
+      "badge": {
+        "type": "ac-tool",
+        "text": "กันโปรของตัวเอง"
+      },
+      "connect": "https://cfx.re/join/jj76yp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jj76yp/-1312748246.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "prge9a",
+      "name": "DIMOOK XSCHOOL | https://discord.gg/dwU2bxGefA",
+      "sub": "► เซิฟแนวโรงเรียนน่ารักเปิดใหม่ ฟรีไวริส สังคมดี ฟามง่าย ระบบลื่น แจกของเยอะ NO TOXIC 4king | ผู้เล่นใหม่แจกไม้พลูคริ 95% ฟรี 3 วัน · dimook,dimoo,school,community,story,th,thailand,4king,notoxic,esx",
+      "players": 118,
+      "maxPlayers": 999,
+      "gametype": "DIMOOKXSCHOOL",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/prge9a",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "akk55e",
+      "name": "🐰 บียู ซิตี้ คอมมูนิตี้ โรลเพลย์ 🐰",
+      "sub": "🐇 ฟรีไวริส สังคมดี ฟาร์มง่าย | กรอกข้อมูลเข้าได้เลย | Discord.gg/byoucity | COMMUNITY ROLEPLAY 🐇 · default, esx, esx legacy, official, roleplay , byou , BYOU , Byou City , byou city , byoucity,esx",
+      "players": 118,
+      "maxPlayers": 1500,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/akk55e",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/akk55e/388240887.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "o8d8my",
+      "name": "Kyanite Collapse",
+      "sub": "Kyanite Collapse · thailand, esx, esx legacy, legacy, official, roleplay, thai, th, community, kyanite, kyanite collapse, zombie, survival, apocalypse,esx",
+      "players": 112,
+      "maxPlayers": 1996,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/o8d8my",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/o8d8my/-274443754.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "aedd7e",
+      "name": "[TH] LAST WORLD 1.0 | WAY YOUR LIFE",
+      "sub": "WAY YOUR LIFE · default, esx, roleplay, reallife,esx",
+      "players": 108,
+      "maxPlayers": 1412,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/aedd7e",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/aedd7e/-1125086340.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "95g9bm",
+      "name": "OASIS",
+      "sub": "A secret haven blooming silently amidst the desert’s fiery wrath. · roleplay, western, bandits",
+      "players": 101,
+      "maxPlayers": 500,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/95g9bm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/95g9bm/-1084776014.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ja38qa",
+      "name": "WANTED CITY 2.0",
+      "sub": "[ discord.gg/qFgmJuE5yA ] · default",
+      "players": 100,
+      "maxPlayers": 600,
+      "gametype": "Powered By Esx , Wanted Legacy Team",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/ja38qa",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ja38qa/1823905063.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3yggjvo",
+      "name": "BOOM & WHAT Sponsored by [ H`OSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 98,
+      "maxPlayers": 1300,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/3yggjvo",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3yggjvo/1001074025.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zy39y9",
+      "name": "โซโซทาวน์ หนึ่งจุดศูนย์ @BossStudio",
+      "sub": "discord.gg/xoxotown · community , rp , xoxotown,esx",
+      "players": 85,
+      "maxPlayers": 1250,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/zy39y9",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zy39y9/-1411574262.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "55k8ld",
+      "name": "กู๊ดทาวน์ 1.0 By ปู่ซ่า",
+      "sub": "default,esx",
+      "players": 84,
+      "maxPlayers": 1299,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/55k8ld",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/55k8ld/-1556083997.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xmx43g",
+      "name": "KITTY CAT",
+      "sub": "One Sync, roleplay, whitelist, thailand, rp",
+      "players": 80,
+      "maxPlayers": 1500,
+      "gametype": "KITTY CAT",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/xmx43g",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xmx43g/1138053902.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "dalmlj",
+      "name": "ลัคซู ดิว่ะ | @RebirthzVPS",
+      "sub": "Discord.gg/luxucity · th,th-th,roleplay,community,thai,esx",
+      "players": 74,
+      "maxPlayers": 1024,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/dalmlj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/dalmlj/49824189.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kb5q4r",
+      "name": "CENTER CITY @RebirthzVPS",
+      "sub": "เมืองเปิดใหม่ ฟามง่าย สังคมดี แลนด์มาร์คสวย แอดมินดูแลตลอด 24 ชั่วโมง · default, esx, esx legacy, official, roleplay,esx",
+      "players": 69,
+      "maxPlayers": 1200,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/kb5q4r",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kb5q4r/-1415091437.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "l69bko",
+      "name": "Music School | แจกไม้คริ 100% | ระบบสกิลใหม่ไม่ซ้ำใคร | ฟรีไวลิส",
+      "sub": "แจกหนักไม้คริ 100+ ตั้งแต่เริ่ม! ระบบสกิลแปลกใหม่ไม่ซ้ำใคร เข้าฟรีไม่ต้องขอไวลิส! แนวโรงเรียน DC: musicschool · default, 4king, pvp, school, esx, esx legacy, official, roleplay,esx",
+      "players": 67,
+      "maxPlayers": 789,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/l69bko",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/l69bko/1199034492.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vg668q",
+      "name": "BIT",
+      "sub": "esx",
+      "players": 64,
+      "maxPlayers": 1032,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/vg668q",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vg95y5",
+      "name": "DEMON BACK TO SCHOOL | MMORPG & COMMUNITY | DEMON SLAYER ANIME",
+      "sub": "BY FORCEZ STUDIO · default,esx",
+      "players": 62,
+      "maxPlayers": 800,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vg95y5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vg95y5/1416187930.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yoyey5",
+      "name": "[TH] Aura City",
+      "sub": "เปิดใหม่ ฟรีไวริส ออโต้ฟาร์ม รถขับมันส์ · default,esx",
+      "players": 60,
+      "maxPlayers": 800,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/yoyey5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yoyey5/-1654138602.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mxrqjv",
+      "name": "ไพร์มแอเรีย",
+      "sub": "discord.gg/primearea · default,esx",
+      "players": 59,
+      "maxPlayers": 850,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mxrqjv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mxrqjv/-719123297.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mabr77",
+      "name": "Over Shot Community by errorismevilHunter",
+      "sub": "เเจกปืน เเจกรถ พร้อมเล่น เเนวเลือกเเก๊งยิงมันๆ ของหาง่ายเหมาะสำหรับสายยิง · thailand,story,shooting,PVP,esx",
+      "players": 58,
+      "maxPlayers": 200,
+      "gametype": "RP",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mabr77",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mabr77/-2117985206.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "okblqy",
+      "name": "4KING EPIC แจกของฟรี รถฟรี สกินฟรี",
+      "sub": "➔ เข้าได้เลย แจกอาวุธฟรี รถฟรี สกินฟรี┃ 4KINGBOXINGROLEPLAYTOXICSTORYFAMILYGODRPSTARRPSCHOOLTRAININGLUVFAMILY ┃ · 4king,school,esx,esx",
+      "players": 57,
+      "maxPlayers": 300,
+      "gametype": "4KING EPIC",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/okblqy",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/okblqy/-1292298015.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zkzemp",
+      "name": "Fam Unity | Production Server",
+      "sub": "Fam Unity | Production Server · TH,Roleplay,esx",
+      "players": 56,
+      "maxPlayers": 1024,
+      "gametype": "Fam Unity",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/zkzemp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zkzemp/-154641043.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "wxq9pm",
+      "name": "TitanXSchool EVO",
+      "sub": "เปิดใหม่ไม่มีอาวุธโดเนท แนวโรงเรียน แอดมินดูแลตลอด · esx",
+      "players": 54,
+      "maxPlayers": 700,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/wxq9pm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/wxq9pm/-732642967.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "y487jm",
+      "name": "NOVA NOT RP @RebirthzVPS",
+      "sub": "BACKEND BY [ MM STORE ] · default,esx",
+      "players": 53,
+      "maxPlayers": 800,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/y487jm",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "98xaqa",
+      "name": "CUTE TOWN",
+      "sub": "ฟรีไวลิส แจกอาวุธคริ 100 แจกรถถาวร กิจกรรม 24 ชั่วโมง ฟาร์มง่าย · roleplay,thailand,esx",
+      "players": 50,
+      "maxPlayers": 700,
+      "gametype": "ESX Legacy Optimized By [Rhymica Studio]",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/98xaqa",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/98xaqa/-550027168.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jydgva",
+      "name": "| WHAT TRAINING EVOLUTION #1  | Sponsored by [ HOSTIFY ] |",
+      "sub": "by [ WHAT CITY DEV TEAM ] · WHATCITY, Training,esx",
+      "players": 49,
+      "maxPlayers": 800,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jydgva",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jydgva/-1854960251.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gmmaax",
+      "name": "Noxtis Legacy",
+      "sub": "By Noxtis Legacy · roleplay, fantasy, magic, ,esx",
+      "players": 48,
+      "maxPlayers": 800,
+      "gametype": "fantasy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/gmmaax",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gmmaax/-1184744670.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ba9qel",
+      "name": "DOWNTOWN RP Sponsored by TG Developer",
+      "sub": "Beyond RedM ประสบการณ์ที่ดีที่สุดรอคุณอยู่ · roleplay, western, bandits, thai",
+      "players": 43,
+      "maxPlayers": 300,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/ba9qel",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ba9qel/520144743.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ygqdzj",
+      "name": "TIME TOWN | GROWTH X BLESS",
+      "sub": "bless, esx legacy, community,esx",
+      "players": 43,
+      "maxPlayers": 400,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ygqdzj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ygqdzj/1903778700.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "aebb33",
+      "name": "เอ็กซ์ตรีม คอมมูนิตี้ & สตอรี่ @ Boss Studio",
+      "sub": "discord.gg/4Ae5KJQa74 · default,esx",
+      "players": 42,
+      "maxPlayers": 789,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/aebb33",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/aebb33/1001956833.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "elbydm",
+      "name": "NAWA SIAM SRP",
+      "sub": "ปฐมบทฟ้าใหม่แดนสยาม : เลือด อาคม และนวัตกรรม · roleplay,srp,thairp",
+      "players": 39,
+      "maxPlayers": 210,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/elbydm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/elbydm/742079281.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jj38ma",
+      "name": "แลนกูนซิตี้ 2.0",
+      "sub": "แลนกูนซิตี้ 2.0 · esx, roleplay, community, thailand,esx",
+      "players": 39,
+      "maxPlayers": 1998,
+      "gametype": "Grand City Season 2",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jj38ma",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jj38ma/-1264257704.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zrjomp",
+      "name": "YourTown Sponsor By YourTeam",
+      "sub": "Sponsor By YourTeam · esx",
+      "players": 39,
+      "maxPlayers": 888,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/zrjomp",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jj735l",
+      "name": "Sphynx City Community",
+      "sub": "Community สวัสดิการดี ฟาร์มง่าย กิจกรรมเยอะ สังคมดี · COMMUNITY,esx",
+      "players": 38,
+      "maxPlayers": 1000,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jj735l",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jj735l/-613840478.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bo5rjl",
+      "name": "Sawana Roleplay 1890",
+      "sub": "Sawana Roleplay 1890 · roleplay, rp, REDM, SAWANA",
+      "players": 38,
+      "maxPlayers": 300,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bo5rjl",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bo5rjl/-1621160584.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mxj7qd",
+      "name": "Arcadia Fantasy Worlds",
+      "sub": "Arcadia Project · roleplay,esx",
+      "players": 33,
+      "maxPlayers": 350,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mxj7qd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mxj7qd/1943688332.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8r3mx5",
+      "name": "HGWs BBT Project : WORP Studio",
+      "sub": "HGWs BBT Project : by WORP Studio · Wizarding, thailand, roleplay, reallife, magic, fantasy,esx",
+      "players": 28,
+      "maxPlayers": 999,
+      "gametype": "fantasy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8r3mx5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8r3mx5/206632023.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6ae9k8",
+      "name": "ก็อดสตอรี่ STORY",
+      "sub": "ก็อดสตอรี่ STORY · story,th,rp,god,esx",
+      "players": 25,
+      "maxPlayers": 2048,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6ae9k8",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "54e7ka",
+      "name": "4KING'S X SCHOOL เน้นตี เน้นเล่น ไม่เน้นฟาร์ม แจกอาวุธเยอะ ของพร้อมเล่น พร้อมนัว",
+      "sub": "เน้นตี เน้นเล่น ไม่เน้นฟาร์ม แจกอาวุธเยอะ ของพร้อมเล่น พร้อมนัว · thailand, th, roleplay, serious, ไทย, 4king,esx",
+      "players": 25,
+      "maxPlayers": 666,
+      "gametype": "4KING",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/54e7ka",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/54e7ka/1050511360.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "89oydb",
+      "name": "LUXE REGENCY",
+      "sub": "BY [KAPI Team Developers] · default,esx",
+      "players": 23,
+      "maxPlayers": 1024,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/89oydb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/89oydb/-1148066119.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3maq48",
+      "name": "อันเรียว บ้านเกิด",
+      "sub": "roleplay, th, esx,esx",
+      "players": 22,
+      "maxPlayers": 2048,
+      "gametype": "performance",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3maq48",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3maq48/1003314632.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "oke3zx",
+      "name": "เทพซ่า สตอรี่ Story | เข้ามาของตามทันแน่นอน Lnwza @RebirthzVPS",
+      "sub": "กดเข้าได้เลย 4kingboxingroleplaytoxigodwhat64xdstorypiathemaha32acthsch · story,community,roleplay,esx,thailand,lnwza,esx",
+      "players": 21,
+      "maxPlayers": 1080,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/oke3zx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/oke3zx/-433368808.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ma4ma7",
+      "name": "Overdrive Roleplay",
+      "sub": "A Racing Heavy Text & Voice based FiveM roleplay server. · rp, y2k, qbox,",
+      "players": 19,
+      "maxPlayers": 128,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ma4ma7",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ma4ma7/-977869991.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gm3z4m",
+      "name": "| WHAT TRAINING EVOLUTION #2  | Sponsored by [ HOSTIFY ] |",
+      "sub": "by [ WHAT CITY DEV TEAM ] · WHATCITY, Training,esx",
+      "players": 17,
+      "maxPlayers": 800,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/gm3z4m",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gm3z4m/-1854960251.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3dvyyb",
+      "name": "BEAUXBATONS",
+      "sub": "BEAUXBATONS Serious Roleplay 100% · Magic,Wizard,BEAUXBATONS,esx",
+      "players": 16,
+      "maxPlayers": 250,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3dvyyb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3dvyyb/-755237636.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "adk5q5",
+      "name": "ARIZONA RP 1865 TH",
+      "sub": "Discord arizonarpofficial ฟรี! ไวริส · roleplay, th, arizona",
+      "players": 14,
+      "maxPlayers": 400,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/adk5q5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/adk5q5/-1429705284.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "p9r645",
+      "name": "Shabu Training! COMMUNITY ┇ เรื่องมันๆ รับประกัน ที่ชาบู ┇ [ discord.gg/shabutraining ] ┇",
+      "sub": "Training Roleplay Story 4King City PvP Boxing TOWN SCHOOL COMMUNITY LEGACYPROJECTSTAROFFICIALLASTWHATแจกของ · roleplay,thailand,esx",
+      "players": 14,
+      "maxPlayers": 188,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/p9r645",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/p9r645/-1591605003.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "e33qpp",
+      "name": "KK TOWN | KhotKool Town : Production Server",
+      "sub": "KhotKool Town - THIS SERVER IS NOT APPROVED, SPONSORED, OR ENDORSED BY ROCKSTAR GAMES · TH,Roleplay,KK,Khot,Kool,KKTOWN,town,KhotKool,kktown,kk,kktown,pablo,siaodd,nae,goodsperm,esx",
+      "players": 14,
+      "maxPlayers": 1000,
+      "gametype": "KK TOWN | Roleplaying & Community",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/e33qpp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/e33qpp/-764723682.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gmz939",
+      "name": "DUCK SCHOOL | เปิดใหม่เล่นง่ายเข้าได้เลย @RebirthzVPS",
+      "sub": "ฟรีไวลิส เซิฟแนวโรงเรียน แจกเยอะเล่นง่าย school 4king community · 4king, school, community,esx",
+      "players": 13,
+      "maxPlayers": 700,
+      "gametype": "Powered by Qubit Core",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/gmz939",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gmz939/822839916.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "365yly",
+      "name": "มิดไนท์ เรซซิ่ง",
+      "sub": "คอมมูนิตี้รถซิ่ง ฟรีไวริส ยืดหยุ่น ฟาร์มง่าย ระบบโคตรลื่น ผู้เล่นจริง · drifting,cars,racing,RolePlay,ServerSideGraphic,esx",
+      "players": 12,
+      "maxPlayers": 888,
+      "gametype": "| Backend By N4Y (dop) |",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/365yly",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/365yly/-1861895616.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gb8pgm",
+      "name": "BUDDY COMMUNITY",
+      "sub": "เมืองเปิดใหม่ แอดมินหน้าตาดี กิจกรรมทันใจ ฟาร์มง่าย ผู้เล่นเด็ดทุกคน · BUDDY TH,esx",
+      "players": 12,
+      "maxPlayers": 666,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/gb8pgm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gb8pgm/-185246878.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "5je69d",
+      "name": "BLINK CITY : @BOSS STUDIO",
+      "sub": "discord.gg/blinkcity · roleplay,THAILAND,thailand,Thailand,Thai,Th,th,RP,esx",
+      "players": 11,
+      "maxPlayers": 789,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/5je69d",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/5je69d/643198986.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gqddaq",
+      "name": "Mystic Academy",
+      "sub": "Mystic Team. [KoRF Dev] · default, deployer, thailand,esx",
+      "players": 11,
+      "maxPlayers": 888,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/gqddaq",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gqddaq/1894310636.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zydxqp",
+      "name": "HI-SCHOOL | COMMUNITY",
+      "sub": "👑 ผู้เล่นใหม่แจกอาวุธคริ100% ของแจกมากมายกิจกรรมมีให้เล่น แอดมินน่ารัก ^^ · roleplay,thailand,esx",
+      "players": 10,
+      "maxPlayers": 800,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/zydxqp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zydxqp/1068999006.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "dajpy5",
+      "name": "First Town @RebirthzVPS",
+      "sub": "[First Town] · default,esx",
+      "players": 9,
+      "maxPlayers": 1024,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/dajpy5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/dajpy5/-502310971.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3o65ob",
+      "name": "Familie City",
+      "sub": "By Familie Team ┃ discord.gg/familiecityoffical · rp, roleplay, thailand,esx",
+      "players": 9,
+      "maxPlayers": 700,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/3o65ob",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3o65ob/1078565811.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "9pr98y",
+      "name": "DawnX Project",
+      "sub": "DawnX Project l Shooting PvP Opening Now!! · roleplay,esx",
+      "players": 9,
+      "maxPlayers": 128,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/9pr98y",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yzb6y9",
+      "name": "WEST-COAST",
+      "sub": "Be heroes of your own stories , A trusted community since Feb 9, 2024 @[ Boss Studio ] · thailand, roleplay, redemrp, redem-rp",
+      "players": 9,
+      "maxPlayers": 128,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yzb6y9",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yzb6y9/2009590671.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "5d6bra",
+      "name": "CAR CITY COMMUNITY X RACING | ประเทศดีดีที่ลงตัว รถสวย คอมมูนิตี้เรื่องความมันและเฮฮา ทุกเพศเข้าได้รองรับหลากหลายรูปแบบก",
+      "sub": "ฟรีไวริส แจกรถเริ่มต้นแบบสวยๆ สายฟรีต้องมาลองที่ CAR CITY · roleplay,esx",
+      "players": 7,
+      "maxPlayers": 256,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/5d6bra",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/5d6bra/-779164180.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pm9rz8",
+      "name": "OPTIONWORLD",
+      "sub": "BY [MD THEME] · default,esx",
+      "players": 7,
+      "maxPlayers": 1024,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pm9rz8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pm9rz8/1963157891.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4zprzo",
+      "name": "HellHunt SRP",
+      "sub": "Hell Hunt Hunter SRP Develop by.hellhuntstudio · roleplay, western, bandits",
+      "players": 7,
+      "maxPlayers": 128,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4zprzo",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4zprzo/1580642533.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bjq994",
+      "name": "Academy of Outcast | Fantasy SRP",
+      "sub": "BY OUTCAST TEAM · default, esx, esx legacy, legacy, official, roleplay,esx",
+      "players": 7,
+      "maxPlayers": 288,
+      "gametype": "Outcast Team",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bjq994",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bjq994/-1264737778.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "myqbyq",
+      "name": "ONE UNIVERS 2.0",
+      "sub": "ฟาร์มง่าย ┃ มีกิจกรรมแจก OC มากมาย ┃ กรอกข้อมูลเข้าได้เลย ┃ Discord.gg/oneuniverse · esx, th, rp, community, fivem,esx",
+      "players": 7,
+      "maxPlayers": 1500,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/myqbyq",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/myqbyq/496721744.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qo7xzz",
+      "name": "Sukhumvit City",
+      "sub": "เมืองคอมมูนิตี้รถซิ่ง สวัสดิการเพียบ กิจกรรมแน่น ทีมงานดูแลตลอด 24 Hr · fivemthailand,TH,community,racing",
+      "players": 5,
+      "maxPlayers": 599,
+      "gametype": "ESX",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qo7xzz",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bolyrb",
+      "name": "Size B Project",
+      "sub": "roleplay,thailand,esx",
+      "players": 5,
+      "maxPlayers": 550,
+      "gametype": "BASEFEWTHZ Powered By Fewthz",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bolyrb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bolyrb/-566111060.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4yl3mv",
+      "name": "San Angeles | State of Anarchy",
+      "sub": "Powered by Boss Studio! · SARP, SanAngeles, qbcore, qb-core",
+      "players": 4,
+      "maxPlayers": 128,
+      "gametype": "SARP",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4yl3mv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4yl3mv/-1328343245.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "387jrr",
+      "name": "4KING OFFICIAL วันที่ 9 นี้เจอกัน",
+      "sub": "Thailand Official Server · default, esx, esx legacy, official,esx",
+      "players": 4,
+      "maxPlayers": 2040,
+      "gametype": "TR CORE",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/387jrr",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mexard",
+      "name": "ประเทศลุง LUNG CITY มีไรก็เรียกลุงนะจ๊ะ",
+      "sub": "เปิดฟรีไวท์ลิสต์ | รับของออนไลน์ทุกสามชั่วโมง | โปรโมชั่นปลดแบน | เรื้อนโปรกลับใจ แจ้งแอดมิน 24h · th,thai,thailand,roleplay,rp,community,24h,esx",
+      "players": 4,
+      "maxPlayers": 300,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mexard",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mexard/-469563209.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "plbr45",
+      "name": "Dark Horizon [1900] Serious Roleplay",
+      "sub": "Story written by yourself — every decision has something you must pay in return. · roleplay, western, bandits, fantasy",
+      "players": 4,
+      "maxPlayers": 200,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/plbr45",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/plbr45/-1059810919.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8loolm",
+      "name": "พุทธโถSchool",
+      "sub": "https://discord.gg/puttoschool · th,TH,thailand,RolePlay,School,Community,esx",
+      "players": 4,
+      "maxPlayers": 512,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8loolm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8loolm/1278659370.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vga3o5",
+      "name": "The Last Sunset",
+      "sub": "โลกแห่งการเอาชีวิตรอด การสร้างเมืองผู้รอดชีวิต และการต่อสู้เพื่ออนาคตของมนุษยชาติ · rsg,roleplay,thai,zombie,srp,apocalypse",
+      "players": 4,
+      "maxPlayers": 64,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vga3o5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vga3o5/-52365741.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yo3y7j",
+      "name": "STEEL ROLEPLAY",
+      "sub": "An advanced FiveM RP framework including jobs, gangs, housing & more! · default, deployer, qbcore, qb-core",
+      "players": 4,
+      "maxPlayers": 1024,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yo3y7j",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yo3y7j/-1511714766.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jjlx74",
+      "name": "[TH] ซ้อมสตอรี่อุ้มเอ๋อ เดือดๆกดเข้าได้เลย ของฟรีเพียบ",
+      "sub": "ประเทศซ้อมสตอรี่เซิฟแรกในไทยมีกล่องจูนรถฟรี กดเข้าได้เลยแอดมินบริการ24ชม · RP,CAR,TUNNING,TH,What,BOXING,esx",
+      "players": 3,
+      "maxPlayers": 300,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jjlx74",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jjlx74/103585827.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r7ym4x",
+      "name": "Durmstrang",
+      "sub": "Wizarding Serious Roleplay · magic, roleplay, serious, serious roleplay,esx",
+      "players": 3,
+      "maxPlayers": 250,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/r7ym4x",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/r7ym4x/1472353058.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g6alpx",
+      "name": "The School For Good and Evil Projects",
+      "sub": "BY Fantastic TEAM # School For Good and Evil SeriousRoleplay · Magic,Wizard,Hogwarts,esx",
+      "players": 3,
+      "maxPlayers": 800,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g6alpx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/g6alpx/1547088503.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "e7lr8p",
+      "name": "COMMU2",
+      "sub": "COMMU2 · default, Serious RolePlay, RolePlay, TH, Training, Esport,esx",
+      "players": 3,
+      "maxPlayers": 1500,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "crc",
+        "text": "CRCBOY"
+      },
+      "connect": "https://cfx.re/join/e7lr8p",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g6vpvx",
+      "name": "World of Zombias",
+      "sub": "By WORP Studio · roleplay, survivor, mmo, WORP Studio,esx",
+      "players": 3,
+      "maxPlayers": 300,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g6vpvx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/g6vpvx/-1599106205.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "55md3a",
+      "name": "BS CITY ฟรีไวริส สังคมดี อาวุธฟรี รถฟรี กิจกรรมเยอะ ฟามง่ายออโต้ แจกกาชา 10,000 ลูก",
+      "sub": "ฟรีไวริส สังคมดี อาวุธฟรี รถฟรี กิจกรรมเยอะ ฟามง่ายออโต้ · COMMUNITY Racing School,esx",
+      "players": 3,
+      "maxPlayers": 999,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/55md3a",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/55md3a/109736672.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgrb7x",
+      "name": "ʀᴘ ᴘʀᴏᴊᴇᴄᴛ : ᴛʜᴇ ʀᴜʟᴇꜱ ᴏꜰ ᴜᴛᴏᴘɪᴀ",
+      "sub": "ᴛʜᴇ ʀᴜʟᴇꜱ ᴏꜰ ᴜᴛᴏᴘɪᴀ · default, deployer, rpproject",
+      "players": 3,
+      "maxPlayers": 400,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgrb7x",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgrb7x/1606110105.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7dajge",
+      "name": "💗 NOX TOWN 💗 | discord.gg/noxtown",
+      "sub": "เปิดใหม่ ฟรีไวริส ฟาร์มง่าย กิจกรรมแจก OC สวัสดิการจุก ๆ แอดมินดูแลตลอด 24ชม. · default,esx",
+      "players": 2,
+      "maxPlayers": 800,
+      "gametype": "Porpy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7dajge",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7dajge/-434792016.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kqmmmkv",
+      "name": "WHAT LABS",
+      "sub": "by [ WHAT SPACE TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 2,
+      "maxPlayers": 1000,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/kqmmmkv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kqmmmkv/543921570.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6akvr8",
+      "name": "COSMO CITY",
+      "sub": "By. AE Developer · One Sync, 2048Slot, Roleplay, FreeRoam, PVP, TH, Thailand, Racing, serious,esx",
+      "players": 2,
+      "maxPlayers": 500,
+      "gametype": "COSMO City",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6akvr8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6akvr8/403102104.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "555oa6",
+      "name": "[TH]",
+      "sub": "[TH] · default,esx",
+      "players": 2,
+      "maxPlayers": 500,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/555oa6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/555oa6/-1590614565.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kqmmzld",
+      "name": "MAD Project┃Dreamophobia",
+      "sub": "เซิฟเวอร์แนวเอาชีวิตรอดในโลกแห่งความฝันแบบแมทช์เกม · horror, fantasy",
+      "players": 2,
+      "maxPlayers": 3,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/kqmmzld",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kqmmzld/-584174893.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "q9p99z",
+      "name": "BANG BANG",
+      "sub": "แจกไม้คริ100ปากฉลามถาวรและรถแรงแค่เข้าเซิฟก็ได้รับ · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 1,
+      "maxPlayers": 800,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/q9p99z",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "9769xk",
+      "name": "4KING IMPERIAL NEWGEN | Discord.gg/imperialnewgen",
+      "sub": "ฟรีไวริส สังคมดี แอดมินดูแลตลอด ไม่ต้องฟาร์มแค่เล่นกิจก็ลั่นได้  · roleplay, esx, custom, thailand, เปิดใหม่, สังคมดี , ลื่นจัด , school , 4king , 4kings,esx",
+      "players": 1,
+      "maxPlayers": 999,
+      "gametype": "IM NEWGEN",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/9769xk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/9769xk/-596409140.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ql9o69",
+      "name": "Sphynx TEST",
+      "sub": "COMMUNITY,esx",
+      "players": 1,
+      "maxPlayers": 1000,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ql9o69",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgg9yk",
+      "name": "CLICK CITY | ROLEPLAY | COMMUNITY 1.0",
+      "sub": "BY CLICK TEAM & iSpecial Support · CLICK CITY, Community, Roleplay, TH, Thailand,esx",
+      "players": 1,
+      "maxPlayers": 1000,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgg9yk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgg9yk/-2139807492.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "al65qz",
+      "name": "TEST SERVER",
+      "sub": "Wise City · Community,PVP,TH,Thailand,esx,RP,esx",
+      "players": 1,
+      "maxPlayers": 1500,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/al65qz",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/al65qz/-1915955382.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pl4968",
+      "name": "GAMBLING x SCHOOL",
+      "sub": "GB TEAM BY KNX112 · 4king, School, Academy, Thailand,esx",
+      "players": 1,
+      "maxPlayers": 8,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pl4968",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pl4968/637798170.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6axrr6",
+      "name": "เบสตี้สคูล ไม้คริ100|@BossStudio",
+      "sub": "แนวโรงเรียนสดใส ไม้คริ100 4KINGS @BossStudio · thailand, th, 4king, 4kings, boxing, training, rp, roleplay, pvp, srp, community,esx",
+      "players": 1,
+      "maxPlayers": 999,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6axrr6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6axrr6/1796411961.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "eqp633",
+      "name": "Rarely City",
+      "sub": "Managed By RARE TEAM · th, roplay, esx,esx",
+      "players": 1,
+      "maxPlayers": 2,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/eqp633",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/eqp633/-1744496815.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "x99jae",
+      "name": "^MUSIC Server^",
+      "sub": "MUSIC Server · thailand,Story,Boxing,4king,esx",
+      "players": 1,
+      "maxPlayers": 10,
+      "gametype": "story",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/x99jae",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jjr7qk",
+      "name": "ARCANA FANTASY 1854",
+      "sub": "Roleplay & Commodity · roleplay, western, bandits",
+      "players": 1,
+      "maxPlayers": 150,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jjr7qk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jjr7qk/-494789055.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xy66zx",
+      "name": "💗 ไพรเวท ซิตี้ คอมมูนิตี้ โรลเพลย์ 💗 |  Discord.gg/PrivateCity",
+      "sub": "➜ ฟรีไวริส สังคมดี ฟาร์มง่าย ┃ กรอกข้อมูลเข้าได้เลย ┃ Discord.gg/PrivateCity ┃ COMMUNITY ROLEPLAY⭐ · th-TH, TH, roleplay, private, privaterp, rp, fivem, thailand, fivemthailand, community,esx",
+      "players": 1,
+      "maxPlayers": 2048,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/xy66zx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xy66zx/-82739230.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ep33ad",
+      "name": "BZ Roleplay Framework",
+      "sub": "BZ Workspace · bz, roleplay, development",
+      "players": 1,
+      "maxPlayers": 8,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ep33ad",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3qgb68",
+      "name": "นครสเลอปี้ คอมมูนิตี้ โรเพลย์",
+      "sub": "เมืองเปิดใหม่ ฟรีไวริส สังคมดี หาเงินง่าย | Discord.gg/SlurpeeTown · th-th,roleplay,thai,rp,th,fivem,thailand,fivemthailand,community,esx,esx",
+      "players": 1,
+      "maxPlayers": 100,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3qgb68",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3qgb68/2125216780.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jp4amm",
+      "name": "Test Town ┃ discord.gg/tKeASh23Pq",
+      "sub": "★ กดเข้าได้เลย ➔ เปิดใหม่ ➔ สังคมดี ➔ ฟาร์มออโต้ ➔ ฟาร์มง่าย ➔ ไม่มีโพรเซส ┃ Discord.gg/tKeASh23Pq · default,esx",
+      "players": 1,
+      "maxPlayers": 2048,
+      "gametype": "OPEN IS COMING",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/jp4amm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jp4amm/2127344833.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yog9vy",
+      "name": "🅱️ BYTE TOWN | COMMUNITY ROLEPLAY 💬 https://discord.gg/byte-town",
+      "sub": "[ 📅 OPEN SERVER : 30.04.2026 ] เปิดใหม่ ฟรีไวริส ฟาร์มง่าย ไม่ตัน ไม่จำเจ เมืองของคนเบียวคอมพิวเตอร์ ] · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 1,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yog9vy",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yog9vy/674986686.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yl57o5",
+      "name": "OPTIONWORLD",
+      "sub": "BY [MD THEME] · default,esx",
+      "players": 1,
+      "maxPlayers": 1024,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yl57o5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yl57o5/1963157891.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3om7er",
+      "name": "LUV TOWN OFFICIAL (DEV) | RP",
+      "sub": "BY [LUV TEAM] · default",
+      "players": 1,
+      "maxPlayers": 2048,
+      "gametype": "",
+      "badge": {
+        "type": "launcher",
+        "text": "Launcher"
+      },
+      "connect": "https://cfx.re/join/3om7er",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3om7er/920294544.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mamqxv",
+      "name": "สี่คิงรีเจนซี่",
+      "sub": "discord.gg/hSSrSsZk · roleplay,THAILAND,thailand,Thailand,Thai,Th,th,RP,esx",
+      "players": 1,
+      "maxPlayers": 432,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mamqxv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mamqxv/1540727991.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kryqrr",
+      "name": "Project | The Final : Allied Forces Soldier Milsim",
+      "sub": "เซิพเวอร์ ทหาร ที่คิดว่าน่าสนใจที่สุด ณ ตอนนี้ แนวเมือง Story Inrole / PVP · th, FIVEM, Army, Soldier, milsim, fivem, TH, SRP, ROLEPLAY, Thailand, 18+, new, เปิดใหม่, Official, qbcore, น่าเล่น",
+      "players": 1,
+      "maxPlayers": 64,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/kryqrr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kryqrr/-484576999.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "y7bbzy",
+      "name": "Your Server Name (SM Store)",
+      "sub": "Your Project Description · School, Thailand,esx",
+      "players": 1,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/y7bbzy",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/y7bbzy/1414030082.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xj8yre",
+      "name": "The Genesis Project",
+      "sub": "เซิฟเวอร์กำลังปรับปุง... · MMORPG, Community, serious, Free, TH, Thailand,esx",
+      "players": 1,
+      "maxPlayers": 10,
+      "gametype": "MYX Script",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xj8yre",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xj8yre/-1285714402.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xv9v6e",
+      "name": "LOONEY SCHOOL 2.0 │ discord.gg/looneyclass",
+      "sub": "เซิฟเวอร์แนวโรงเรียนซีซั่นใหม่ผู้เล่นเยอะ เซิฟน่ารัก เล่นสนุก ระบบดี คล้าย 4king · esx",
+      "players": 1,
+      "maxPlayers": 5,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xv9v6e",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xv9v6e/-926016769.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "oqx5pv",
+      "name": "Frontier Test",
+      "sub": "Frontier Test · pvp, test, servertest",
+      "players": 1,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/oqx5pv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/oqx5pv/-1136063743.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "eq3prp",
+      "name": "CENTER CITY TEST",
+      "sub": "TEST SERVER · default, esx, esx legacy, official, roleplay,esx",
+      "players": 1,
+      "maxPlayers": 5,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/eq3prp",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3ygyado",
+      "name": "Flow Town",
+      "sub": "คอมมูนิตี้ สังคมดี ของแจกมากมาย · roleplay,esx",
+      "players": 1,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3ygyado",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3ygyado/1464116599.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pbp9d5",
+      "name": "Outcast | TEST SERVER ONLY",
+      "sub": "The official recipe of the most popular FiveM RP framework, containing Jobs, Housing, Vehicles & more! · default, esx, esx legacy, legacy, official, roleplay,esx",
+      "players": 1,
+      "maxPlayers": 277,
+      "gametype": "𝗔𝗰𝗮𝗱𝗲𝗺𝘆 𝗼𝗳 𝗢𝘂𝘁𝗰𝗮𝘀𝘁",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pbp9d5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pbp9d5/-1264737778.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "glja5x",
+      "name": "xRacecity",
+      "sub": "รถซิ่ง ทุกประเภท แข่งรถหลังถนน รถมอด 100% เล่นง่าย สังคมดี · default, xrace, gt,esx",
+      "players": 1,
+      "maxPlayers": 64,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/glja5x",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgxgo5",
+      "name": "EXODIA | RP 1890 | Birth of Arcadia",
+      "sub": "Cosmic Fantasy · roleplay, western, bandits",
+      "players": 1,
+      "maxPlayers": 128,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgxgo5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgxgo5/-1358300789.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "m5rora",
+      "name": "💗 NOX TOWN 💗 | discord.gg/noxtown",
+      "sub": "เปิดใหม่ ฟรีไวริส ฟาร์มง่าย กิจกรรมแจก OC สวัสดิการจุก ๆ แอดมินดูแลตลอด 24ชม. · default,esx",
+      "players": 1,
+      "maxPlayers": 5,
+      "gametype": "Porpy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/m5rora",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/m5rora/-434792016.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g7paaq",
+      "name": "Powered by X64 Team 📢 discord.gg/37jyyfwyFH",
+      "sub": "ROLEPLAY  · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,PVP,pvp,64,x64,esx",
+      "players": 1,
+      "maxPlayers": 15,
+      "gametype": "Discord:discord.gg/37jyyfwyFH",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g7paaq",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/g7paaq/-2104921130.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "eb73b3",
+      "name": "Divide 1914's",
+      "sub": "Divide 1914's · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th",
+      "players": 1,
+      "maxPlayers": 128,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/eb73b3",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/eb73b3/273708459.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "k8648a",
+      "name": "The Living City",
+      "sub": "Your actions shape the city's destiny (การกระทำของคุณกำหนดชะตาของเมือง) · default, qbcore, Serious RP",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/k8648a",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/k8648a/9446252.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r4ylmx",
+      "name": "ANORAK",
+      "sub": "ANORAK RP COMMUNITY · roleplay, RP, REDM",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/r4ylmx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/r4ylmx/1916199963.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96g9bb",
+      "name": "ZOOTOPIA SCHOOL NO TOXIC",
+      "sub": "???? · thailand, th, roleplay, serious, ไทย, 4king,esx",
+      "players": 0,
+      "maxPlayers": 777,
+      "gametype": "4KING",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96g9bb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96g9bb/-1245539280.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pkaekm",
+      "name": "STRIKER SHOP │ FiveM Script",
+      "sub": "FiveM Script │ Discord : discord.gg/MJ4fAWUtTe · thailand, reallife, serious, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pkaekm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pkaekm/602471187.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "897bz5",
+      "name": "Family City SS1",
+      "sub": "BY [Family City SS1] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/897bz5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/897bz5/1615462101.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "67lzxd",
+      "name": "SHARK COMMUNITY FARMING",
+      "sub": "discord.gg/sharkcommunity · th, shark, community, farming, roleplay, thailand, esx, rp, fivemthailand,esx",
+      "players": 0,
+      "maxPlayers": 600,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/67lzxd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/67lzxd/2116168264.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6ryoyd",
+      "name": "กุฏิแก๊ง",
+      "sub": "ซัพพอร์ตตลอด 24 ชั่วโมง 🎉 · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 40,
+      "gametype": "4KING IMPERIAL",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6ryoyd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6ryoyd/-1788906807.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "x97xb5",
+      "name": "OASIS TEST",
+      "sub": "A secret haven blooming silently amidst the desert’s fiery wrath. · roleplay, western, bandits",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/x97xb5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/x97xb5/-1084776014.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "549r8r",
+      "name": "PRIVATE VOICE",
+      "sub": "PRIVATE VOICE · esx",
+      "players": 0,
+      "maxPlayers": 2048,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/549r8r",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7oj48a",
+      "name": "KJKTEST",
+      "sub": "รถMods อัพเดตใหม่ทุกเดือน ล้อMods 500++ ระบบจูน Rabbit_tuner 4.0 พร้อมมันกันหรือยัง · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 32,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7oj48a",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7oj48a/1080731536.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "okqygy",
+      "name": "Coyoty Story",
+      "sub": "Coyoty Story · TH, Story , ,esx",
+      "players": 0,
+      "maxPlayers": 20,
+      "gametype": "BASE 20K",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/okqygy",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xm3jr5",
+      "name": "OUTLAST CITY",
+      "sub": "OUTLAST CITY · roleplay, military, tanks, OneSync, Thailand, SeriousRoleplay,esx",
+      "players": 0,
+      "maxPlayers": 3,
+      "gametype": "Outlastcity",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xm3jr5",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r7vq37",
+      "name": "แลนกูนซิตี้ 2.0 เดฟ",
+      "sub": "แลนกูนซิตี้ 2.0 เดฟ · esx, roleplay, community, thailand,esx",
+      "players": 0,
+      "maxPlayers": 1998,
+      "gametype": "Grand City Season 2",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/r7vq37",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/r7vq37/-1264257704.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "rjxj4g",
+      "name": "TEST SERVER",
+      "sub": "┃ ระบบเข้าใจง่าย เล่นได้ทุกระดับ เพื่อนเยอะ คอมมูฯอบอุ่น ┃ ฝึกหัดเล่น ┃ มั่นคงเปิดมานาน · community,th,passion,roleplay,newbie-friendly,thai,esx",
+      "players": 0,
+      "maxPlayers": 2048,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/rjxj4g",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/rjxj4g/1129268709.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8rm5dm",
+      "name": "STARLIGHT STUDIO | PRODUCT",
+      "sub": "STARLIGHT STUDIO! · th,rp,stl,STAR,STL,STARLIGHT STUDIO,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "FiveM Thailand",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8rm5dm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8rm5dm/-1443654091.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pgaaqma",
+      "name": "HGWs BBT Project : WORP Studio",
+      "sub": "HGWs BBT Project : by WORP Studio · Wizarding, thailand, roleplay, reallife, magic, fantasy,esx",
+      "players": 0,
+      "maxPlayers": 50,
+      "gametype": "fantasy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pgaaqma",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pgaaqma/206632023.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bp7zlb",
+      "name": "SC Real",
+      "sub": "เซิฟเปิดใหม่แนวชิวๆเล่นสนุกหายของง่าย · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bp7zlb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bp7zlb/2068373373.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgprrr",
+      "name": "เมืองสีขาว",
+      "sub": "ประเทศเปิดใหม่ - ลื่นสุดๆ - บริการดีเยี่ยม - ชุมชนอบอุ่น · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "WHITE CITY CORE",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgprrr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgprrr/-1636056093.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bdxxz64",
+      "name": "SCANIA PROJECT",
+      "sub": "ประเทศเปิดใหม่ ฟาร์มง่าย หาเงินง่าย สังคมดู แอดมินดูแล 24ชม · esx,roleplay,fivemthailand,th-TH,TH,rp,fivem,community,thailand,school,academy,esx",
+      "players": 0,
+      "maxPlayers": 1024,
+      "gametype": "SCANIA CITY",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bdxxz64",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bdxxz64/-409947222.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mxmeqa",
+      "name": "DEV VEHICLES",
+      "sub": "discord.gg/xoxotown · community , rp , whxyoudev,esx",
+      "players": 0,
+      "maxPlayers": 23,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mxmeqa",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mxmeqa/818343346.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "89dbvm",
+      "name": "FRIEND CITY 2.0 @Boss-Studio",
+      "sub": "FRIEND CITY 2.0 @Boss-Studio · default,esx",
+      "players": 0,
+      "maxPlayers": 750,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/89dbvm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/89dbvm/-952811989.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6okqa4",
+      "name": "GLORY CITY",
+      "sub": "เมืองเปิดใหม่ ฟรีไวริส แจกของพร้อมรบ ฟาร์มง่าย สังคมดี แอดมินดูแลตลอด ! · th, community, rp, glorycity, esx,esx",
+      "players": 0,
+      "maxPlayers": 256,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6okqa4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6okqa4/1280461028.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96kbek",
+      "name": "SAVAGE",
+      "sub": "A Better New Beginning. Hero or Villain — Your Choice · roleplay, rp, gang, story, thai",
+      "players": 0,
+      "maxPlayers": 150,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96kbek",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96kbek/-260540537.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3p7qar",
+      "name": "NOMNA PROJECT NEXT | BETA",
+      "sub": "POWER BY MoeAnastasia · thailand, reallife, serious, roleplay,,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3p7qar",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3p7qar/-1374919740.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mxx4ga",
+      "name": "W Day School",
+      "sub": "roleplay, Thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mxx4ga",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mxx4ga/570788281.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "amgkoe",
+      "name": "Enclave Project 👑 [SRP]",
+      "sub": "Royal Fantasy World · roleplay, serious, prince, princess, school, srp, seriousroleplay,esx",
+      "players": 0,
+      "maxPlayers": 100,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/amgkoe",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/amgkoe/1501818035.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "m4zz8ja",
+      "name": "VELRA | MMORPG | FiveM",
+      "sub": "MMORPG | FiveM · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "BASE 20K",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/m4zz8ja",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "j7jdz4",
+      "name": "4KING BANGKOK เข้าได้เลย แจกสกินโดเนทฟรี",
+      "sub": "➔ แจกอาวุธฟรี รถฟรี ┃ 4kingboxingroleplaytoxicstoryfamilygodrpstarrp ┃ · 4king,4kings,school,esx,esx",
+      "players": 0,
+      "maxPlayers": 500,
+      "gametype": "4KING BANGKOK",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/j7jdz4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/j7jdz4/-2140085682.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g6bjdz",
+      "name": "จันทร์เจ้า ทาวน์ ┃ discord.gg/52A3c7makr",
+      "sub": "┃ ผู้เล่นใหม่รับอาวุธและเล่นสตอรี่ได้เลย !! ┃ มาเป็นกลุ่ม , แก๊งค์ มีสวัสดิการรองรับมากมาย ┃ เมืองน่ารัก อบอุ่น สังคมดี · COMMUNITY,th,thailand,school,boxing,roleplay,toxic,family,toxic,story,esx",
+      "players": 0,
+      "maxPlayers": 700,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g6bjdz",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/g6bjdz/640792417.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6az9v4",
+      "name": "FROZEN TOWN",
+      "sub": "FROZEN TOWN · default,esx",
+      "players": 0,
+      "maxPlayers": 20,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6az9v4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6az9v4/258551674.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mly7y7",
+      "name": "NEW MEXICO RP - @AXIS STUDIO",
+      "sub": "Discord: New Mexico Official ฟรี! ไวริส เปิดแล้ววันนี้!",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mly7y7",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mly7y7/-382356461.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "b75x58",
+      "name": "#69 | REMAKE RETURNS | @X-GROUP",
+      "sub": "► remake returns is coming ... · School,4kings,4king,4kingremake,Remake,Story,Thailand,TH,X,XD,esx",
+      "players": 0,
+      "maxPlayers": 69,
+      "gametype": "extended Powered By Remake",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/b75x58",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/b75x58/-263877129.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "x5rlex",
+      "name": "KK TOWN | KhotKool Town : Test Server",
+      "sub": "KhotKool Town - THIS SERVER IS NOT APPROVED, SPONSORED, OR ENDORSED BY ROCKSTAR GAMES · TH,Roleplay,KK,Khot,Kool,KKTOWN,town,KhotKool,kktown,kk,kktown,pablo,siaodd,nae,goodsperm,esx",
+      "players": 0,
+      "maxPlayers": 1000,
+      "gametype": "KK TOWN | Roleplaying & Community",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/x5rlex",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/x5rlex/-764723682.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ay9vqk",
+      "name": "RedM: Original",
+      "sub": "VorpCore Official txAdmin recipe! This will set up a base vorp official server. · NEXTCODE, community, roleplay, western, bandits",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ay9vqk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ay9vqk/-927782931.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "97zgey",
+      "name": "WHAT UNIVERSAL Sponsored by [ HOSTIFY ] [GPL]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 1500,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/97zgey",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/97zgey/810148255.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "85qmqm",
+      "name": "PVP TOWN",
+      "sub": "(Free Play) · freelome,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "PVP",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/85qmqm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/85qmqm/1437134399.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4yxr9q",
+      "name": "TRIPLE DEV SERVER",
+      "sub": "The official recipe of the most popular FiveM RP framework, containing Jobs, Housing, Vehicles & more! · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4yxr9q",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4yxr9q/403435188.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r7m8bp",
+      "name": "64BIT 2.0 NEW LIFE",
+      "sub": "default, rp, fivem, 64BIT 2.0 NEW LIFE,esx",
+      "players": 0,
+      "maxPlayers": 1164,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/r7m8bp",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pbmk4a",
+      "name": "NOCAB Build",
+      "sub": "BY NOCAB · default,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pbmk4a",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pbmk4a/-1253215950.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7razvb",
+      "name": "SENSE TOWN | WITH MY FRIEND",
+      "sub": "WITH MY FRIEND · TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7razvb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7razvb/504967583.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "dg3gy4q",
+      "name": "️แฟรี่ X School",
+      "sub": "เมืองโรงเรียนแนว 4King 𝘛𝘰𝘹𝘪𝘤 70% เน้นบวก ฟาร์มง่าย กิจกรรมเยอะ ไม่เหงา แจกหนักมาก · default,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Porpy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/dg3gy4q",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/dg3gy4q/-1919744054.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6aava6",
+      "name": "🎓 North Valley University RP | Serious Roleplay | Thailand",
+      "sub": "เซิร์ฟเวอร์แนว Qbox พัฒนาบน Linux VPS · thailand, roleplay, SRP",
+      "players": 0,
+      "maxPlayers": 128,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6aava6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6aava6/-258040746.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yoo3y9",
+      "name": "Z Nation | Zombie,RaidCamp,PvP,PvE",
+      "sub": "Zombie,RaidCamp,PvP,PvE · Zombie,RaidCamp,PvP,PvE,Qbox,Thailand,SEA,TH,RUST,DayZ,SCUM,Deathmatch,Free,Roleplay,4Kings,Gangs,Gun,Apocalypes",
+      "players": 0,
+      "maxPlayers": 128,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yoo3y9",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yoo3y9/2034334528.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "el96ja",
+      "name": "BS TEST",
+      "sub": "TEST · COMMUNITY Racing School,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/el96ja",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3e3q5y",
+      "name": "ZeedZas COMMUNITY | Discord.gg/ZeedZas",
+      "sub": "แจกอาวุธ ไม้พลู ปากฉลาม ทันที กดเข้าได้เลย เซิร์ฟเวอร์สนุก มิตรภาพอบอุ่น พร้อมทีมงานดูแลและเพื่อนใหม่รอคุณอยู่! มาร่วมผจญภัยไปด้วย ฟรีไวริส FREE-WHITELIST | Discord.gg/ZeedZas · thailand,th,boxing,tra",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ZeedZas Community",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3e3q5y",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3e3q5y/541352143.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gy7rkx",
+      "name": "ASTRA UNION",
+      "sub": "BY ASTRA · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/gy7rkx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gy7rkx/-936049918.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "okogmy",
+      "name": "TYPE TOWN",
+      "sub": "discord.gg/... · roleplay, thailand, th,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/okogmy",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/okogmy/809886351.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "oqadkv",
+      "name": "HYBIT CITY",
+      "sub": "HYBIT CITY · roleplay, community,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/oqadkv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/oqadkv/1994154708.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xmlbvm",
+      "name": "ORBIT TOWN",
+      "sub": "OPEN SOON ON MAY 2026 · rp, roleplay, community, th,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/xmlbvm",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4zg79q",
+      "name": "Valley Base",
+      "sub": "Valley Base Dev · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4zg79q",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4zg79q/1945989516.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "e54ykb",
+      "name": "Everything Project [ Base By Everything Dev ] || Discord :  https://discord.gg/rwYdpTFMhc",
+      "sub": "Everything Project || Discord :  https://discord.gg/rwYdpTFMhc · roleplay, military, tanks, OneSync, Thailand, SeriousRoleplay,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/e54ykb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/e54ykb/-81444826.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "k9rov6",
+      "name": "NAKHONTHARA",
+      "sub": "NAKHONTHARA Official server. · roleplay, western, bandits",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/k9rov6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/k9rov6/455829753.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "j5y8dk",
+      "name": "ʀᴘ ᴘʀᴏᴊᴇᴄᴛ : ᴛʜᴇ ʀᴜʟᴇꜱ ᴏꜰ ᴜᴛᴏᴘɪᴀ",
+      "sub": "ᴛʜᴇ ʀᴜʟᴇꜱ ᴏꜰ ᴜᴛᴏᴘɪᴀ · default, deployer, rpproject",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/j5y8dk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/j5y8dk/1606110105.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "eg4rva",
+      "name": "Beta Base",
+      "sub": "Beta Base · Roleplay, community, serious, gang & story, Thailand, serious, esx, Dreamtown,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Kp",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/eg4rva",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "o7pblr",
+      "name": "WHAT UNIVERSAL Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/o7pblr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/o7pblr/-1127889262.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jggjy4",
+      "name": "Khotkool Training",
+      "sub": "KhotKool Training | Production Server · KKTOWN, KKTRAINING, KHOTKOOL, KK,esx",
+      "players": 0,
+      "maxPlayers": 300,
+      "gametype": "Training Area",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jggjy4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jggjy4/-25017211.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bag9gl",
+      "name": "HEAT TOWN",
+      "sub": "HEAT TOWN · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bag9gl",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bag9gl/-841052324.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gadddax",
+      "name": "SPACE SCHOOL 0.95 [UPDATE]",
+      "sub": "POWER BY [Zion] · thailand, reallife, serious, roleplay, 4king,esx",
+      "players": 0,
+      "maxPlayers": 300,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/gadddax",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gadddax/-2105157856.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r7zbpg",
+      "name": "3.0 [Testing]",
+      "sub": "สามจุดศูนย์ · TH,Serious RolePlay,esx",
+      "players": 0,
+      "maxPlayers": 429,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/r7zbpg",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/r7zbpg/435889473.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "y9v95qk",
+      "name": "COCO COMMUNITY | โคโค่ คอมมูนิตี้ [TH]",
+      "sub": "An advanced FiveM RP framework including jobs, gangs, housing & more! · thailand, thai, qbcore, roleplay, rp, coco",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/y9v95qk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/y9v95qk/1415030906.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yolk65",
+      "name": "[TH] [SERVER]  BY [Devil Hunter developers]",
+      "sub": "BY [Devil Hunter developers] · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yolk65",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yolk65/-1253215950.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lvek9j",
+      "name": "SAY TOWN [ Server TEST ]",
+      "sub": "discord.gg/saytown · fivem,roleplay,say,saytown,esx,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Say Town",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lvek9j",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lvek9j/1218178889.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6dog6j",
+      "name": "Diamond 2.0",
+      "sub": "roleplay, Thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6dog6j",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6dog6j/803806456.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pmx3e5",
+      "name": "GRIMVALE SRP",
+      "sub": "พร้อมแล้วหรือยัง โลกแฟนตาซีเปิดประตูรอคุณอยู่ @DTDEVELOP · roleplay",
+      "players": 0,
+      "maxPlayers": 300,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pmx3e5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pmx3e5/-229878323.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7pbqrb",
+      "name": "NEW MEXICO TRAINING",
+      "sub": "Discord: New Mexico Official ฟรี! : กดรับไวริสฝึกซ้อมได้เลยวันนี้! · pvp,TH,THAILAND,thailand,Thailand,Thai,Th,th,redm,training",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7pbqrb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7pbqrb/-586104597.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4jmk69",
+      "name": "[TH] [SERVER]  BY [Devil Hunter developers]",
+      "sub": "BY [Devil Hunter developers] · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4jmk69",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4jmk69/-1253215950.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgjgeq",
+      "name": "SUN CITY",
+      "sub": "discord.gg/suncity · th-th, th, roleplay, rp, fivem, thailand, fivemthailand, community,esx",
+      "players": 0,
+      "maxPlayers": 800,
+      "gametype": "Powered by ESX, Vexalon",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgjgeq",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgjgeq/-411641737.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xmeaee",
+      "name": "IDEA CITY 3.1 @Galaxy Studio",
+      "sub": "BY IDEA STUDIO เมืองที่จะเติบโตไปพร้อมกับคุณ : Free Whitelist สังคมดี ระบบเข้าใจง่าย  · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xmeaee",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4ok8v5",
+      "name": "BIT! - TEST SERVER",
+      "sub": "default, deployer,esx",
+      "players": 0,
+      "maxPlayers": 6,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/4ok8v5",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "5o45ja",
+      "name": "RB EXTENDED @REBIRTHZVPS",
+      "sub": "discord.gg/rebirthvps · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "SUPPORT BY RB-EXTENDED",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/5o45ja",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4zojjo",
+      "name": "FenCity",
+      "sub": "ประเทศเปิดใหม่ ฟรีไวท์ลิส แจกอาวุธถาวร ไม้คริ 100 ปากฉลาม Loop กิจกรรมทั้งวัน ของรางวัลมากมาย · roleplay, community,esx",
+      "players": 0,
+      "maxPlayers": 9,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4zojjo",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4zojjo/-2138584701.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "okeb4y",
+      "name": "#1 | XD BY CHICKEN-XD |  discord.gg/4kingxd",
+      "sub": "กดเข้าได้เลย discord.gg/4kingxd XD4KINGXDS4KINGSCHOOLLASTLKKWHATFORPLAYPIGHEHAPARTYFAMILYSTARDOWPLAYGODOFSTORYSOMEONEHAVEYOUMIDNIGHTRACECARTRAININGKILL4KINGREGENDARYPIGGYKUKKUK · esx, vrp, custom, 4ki",
+      "players": 0,
+      "maxPlayers": 1168,
+      "gametype": "XD-BASE",
+      "badge": {
+        "type": "ac-tool",
+        "text": "กันโปรของตัวเอง"
+      },
+      "connect": "https://cfx.re/join/okeb4y",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/okeb4y/-1312748246.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "gadaq4z",
+      "name": "เชิฟเทส",
+      "sub": "เชิฟเทส · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 1,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/gadaq4z",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/gadaq4z/-1899810443.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "drl5yj",
+      "name": "Apex Racing",
+      "sub": "สุดยอดประสบการณ์การแข่งรถและการใช้ชีวิตที่สมจริง ระบบครบครัน ทั้งอาชีพ บ้าน รถซิ่ง และกิจกรรมมากมาย! · thailand, apex, racing, esx, roleplay, esx legacy, official, cars, tuning, car, race, rp, rolepla",
+      "players": 0,
+      "maxPlayers": 128,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/drl5yj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/drl5yj/886033006.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "37r33o",
+      "name": "PLASMA BASEROLEPLAY | VERSION 1.10.7",
+      "sub": "BY [PLASMA TEAM] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/37r33o",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/37r33o/-1899810443.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7q7ljr",
+      "name": "default FXServer",
+      "sub": "High School ! · esx",
+      "players": 0,
+      "maxPlayers": 1000,
+      "gametype": "x",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7q7ljr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7q7ljr/1878494453.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "y9qg35",
+      "name": "PORING SCHOOL @RebirthzVps",
+      "sub": "BY PORING TEAM · PORING SCHOOL,esx",
+      "players": 0,
+      "maxPlayers": 800,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/y9qg35",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/y9qg35/895740795.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8dqok3",
+      "name": "[TH] PEETSER | Best GTA V FIVEM",
+      "sub": "Best GTA V FIVEM · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8dqok3",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8dqok3/336391290.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "amd4jz",
+      "name": "Season City Power By Sommai",
+      "sub": "[Season City] · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "Season pat1",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/amd4jz",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/amd4jz/1132406578.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kb7krr",
+      "name": "Unique.LODNON",
+      "sub": "https://discord.gg/J7bP4M9T8v · default,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/kb7krr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kb7krr/-1810019020.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3qp788",
+      "name": "YOU CITY",
+      "sub": "สังคมดี ฟาร์มง่าย กิจกรรมใหม่ๆ แอดมินดูแลตลอด · default,esx",
+      "players": 0,
+      "maxPlayers": 800,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3qp788",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3qp788/-1973380240.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4ozmm8",
+      "name": "THE ALITTLE-GOLEM CAPITAL | เมืองหลวงโกเลมน้อย",
+      "sub": "Thai Roleplay Server by Touch · thai, roleplay, qbcore",
+      "players": 0,
+      "maxPlayers": 25,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4ozmm8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4ozmm8/1095783843.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qekxb9",
+      "name": "Newthings City",
+      "sub": "Newthings City · default, thailand, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 500,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qekxb9",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qekxb9/1712810525.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "89kea4",
+      "name": "Jelly Town @ixe.dev",
+      "sub": "by [ ixe.dev ] · default, esx, roleplay, reallife",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Jelly Town",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/89kea4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/89kea4/-1599766949.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qlxq7v",
+      "name": "X TOWN TEST",
+      "sub": "X TOWN TEST · roleplay, military, thailand, drift,esx",
+      "players": 0,
+      "maxPlayers": 1500,
+      "gametype": "| Backend By N4Y |",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qlxq7v",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jjrkma",
+      "name": "Default RePlayX",
+      "sub": "เปิดใหม่ซื้อไปเปิดรวยแน่นอน · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jjrkma",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jjrkma/1227606151.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vz7j6e",
+      "name": "Virginia Project RP [Official] | Serious Roleplay",
+      "sub": "POWERED BY VIRGINIA TEAM · roleplay,thailand,th-th,th,rp,fivemthailand,fivem,Virginia,srp,official,serious,serious rp,seriousrp,realistic",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vz7j6e",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vz7j6e/2034334528.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8eme4am",
+      "name": "THE RETURN",
+      "sub": "BY [THE|RETURN] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8eme4am",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8eme4am/1914412211.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8r3eg5",
+      "name": "ซัมเมอร์ซิตี้ เดฟ",
+      "sub": "discord.gg/summer-city · default, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 1200,
+      "gametype": "Winter",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8r3eg5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8r3eg5/1238488509.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "98y8zea",
+      "name": "Shoken Roleplay",
+      "sub": "By NexWave Studio · roleplay, fantasy, mmo, NexWave Studio,esx",
+      "players": 0,
+      "maxPlayers": 400,
+      "gametype": "fantasy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/98y8zea",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/98y8zea/1724083255.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qly3x6",
+      "name": "LUNA SHOP | VERSION 1.10.7",
+      "sub": "BY [LUNA SHOP] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qly3x6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qly3x6/-1899810443.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ay9g5z",
+      "name": "Z-VOID Project",
+      "sub": "Immerses players in a zombie-infested, post-apocalyptic world · zombie, apocalypse, survival, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 64,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ay9g5z",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ay9g5z/97081980.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ar6y35",
+      "name": "Want X Test",
+      "sub": "เปิดใหม่ ฟรีไวริส เล่นง่าย กดอีโมจิรับยศ · esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ar6y35",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ar6y35/-9347056.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "63pyed",
+      "name": "SHAWTY COMMUNITY @SEASTUDIO",
+      "sub": "discord.gg/shawty · default, esx, esx legacy, official, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "XNATIVE",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/63pyed",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/63pyed/-2009681873.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "93pvza",
+      "name": "UDG: The Secret Island",
+      "sub": "ยืนหยัด เพื่อ มีชีวิต และ การตัดสินใจบางอย่าง มีผลต่อชีวิต · thai, thailand, roleplay, underground, udg, apocalypse, story, fantasy",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/93pvza",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/93pvza/1489105013.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lvyye7",
+      "name": "Server Test",
+      "sub": "discord.gg/savageall · thailand, reallife, serious, roleplay, 4king,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lvyye7",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lvyye7/-723165095.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "9gezzm",
+      "name": "CPU TOWN",
+      "sub": "CPU TOWN By LXD DEV · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 4,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/9gezzm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/9gezzm/-1283325057.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4myq5v",
+      "name": "SABER TOWN",
+      "sub": "เมืองดีเมืองเด่น นายกเร็วไวทันทุกสถานการณ์ และพร้อมที่จะดูแลประชาชน ครอบครัว แก๊ง อย่างทั่วถึง · thailand, reallife, serious, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 100,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4myq5v",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4myq5v/-1348119830.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8vdl44",
+      "name": "TEST SERVER BY EZDEV TEAM",
+      "sub": "EZDEV TEAM · Testing ,ROLEPLAY ,ESX,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Mt - Base Server",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8vdl44",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8vdl44/-282655831.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yoklx9",
+      "name": "TEST Noxtis Legacy",
+      "sub": "By Noxtis Legacy · roleplay, fantasy, magic, ,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "fantasy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yoklx9",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yoklx9/-1184744670.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4jyeeo",
+      "name": "[TH] [SERVER]  BY [Devil Hunter developers]",
+      "sub": "BY [Devil Hunter developers] · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4jyeeo",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4jyeeo/-1253215950.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3zpvrr",
+      "name": "PLASMA BASEROLEPLAY | VERSION 1.10.7",
+      "sub": "BY [PLASMA TEAM] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3zpvrr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3zpvrr/-1899810443.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6ojgej",
+      "name": "default FXServer",
+      "sub": "FiveM,Roleplay,wip,WIPTOWN,WIP,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6ojgej",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pm8zmm",
+      "name": "BUDDY COMMUNITY TESTER",
+      "sub": "เมืองเปิดใหม่ แอดมินหน้าตาดี กิจกรรมทันใจ ฟาร์มง่าย ผู้เล่นเด็ดทุกคน · BUDDY TH,esx",
+      "players": 0,
+      "maxPlayers": 666,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pm8zmm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pm8zmm/-185246878.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mxab89",
+      "name": "MooNoi TEST SERVER",
+      "sub": "BY [MOONOI TEAM] · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mxab89",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mx43ea",
+      "name": "TLRP 2.0",
+      "sub": "ย้อนวันวานในโลก RP สบาย ๆ ทำงาน หาเงิน ใช้ชีวิต และอยู่ร่วมกับคอมมูที่อบอุ่นที่สุด · roleplay,esx,community,th,newbie-friendly,thai,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "VECORE By venus",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mx43ea",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mx43ea/1956465395.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "epxqxp",
+      "name": "MISSZ MENTERNANCE",
+      "sub": "by [ MISSZ TEAM ] · esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/epxqxp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/epxqxp/-2038183697.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kboaqr",
+      "name": "WHAT UNIVERSAL Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/kboaqr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kboaqr/-1127889262.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6ap8k6",
+      "name": "Dark Horizon TEST",
+      "sub": "Story written by yourself — every decision has something you must pay in return. · roleplay, western, bandits, fantasy",
+      "players": 0,
+      "maxPlayers": 15,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6ap8k6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6ap8k6/-1059810919.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3ekg5z",
+      "name": "ABC",
+      "sub": "ABC · Wizarding, thailand, roleplay, reallife, magic, fantasy,esx",
+      "players": 0,
+      "maxPlayers": 999,
+      "gametype": "fantasy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3ekg5z",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3ekg5z/206632023.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mxgvrv",
+      "name": "Nether City",
+      "sub": "Nether City · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mxgvrv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mxgvrv/567568379.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7z4rjb",
+      "name": "[TH] [SERVER]  BY [TimeMachine City]",
+      "sub": "BY [TimeMachine City] · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7z4rjb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7z4rjb/616554704.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "rmaaboj",
+      "name": "Pinky Town เร็วๆนี้",
+      "sub": "BY [Devil Hunter developers] · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/rmaaboj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/rmaaboj/-914048292.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pl96e8",
+      "name": "CITY OF GOD",
+      "sub": "CITY OF GOD · roleplay, RP, REDM",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pl96e8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pl96e8/988404909.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xmemog",
+      "name": "Vibe Roleplay | Los Santos",
+      "sub": "Serious Roleplay Server · roleplay, development",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xmemog",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xmemog/-482469655.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "krroka",
+      "name": "skytailfamily built server test",
+      "sub": "skytailfamily built server test · roleplay, thai, economy, community, script, esx,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/krroka",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/krroka/1364242783.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96mlja",
+      "name": "Reverse X School",
+      "sub": "Reverse X School | THIS SERVER IS NOT APPROVED, SPONSORED, OR ENDORSED BY ROCKSTAR GAMES · reversez,reversex,school,esx",
+      "players": 0,
+      "maxPlayers": 1000,
+      "gametype": "Reverse Team",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96mlja",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96mlja/275775931.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qllge9",
+      "name": "Like town!",
+      "sub": "Like town! · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qllge9",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qllge9/-970785276.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "z5kboy",
+      "name": "OneMore Town",
+      "sub": "OneMore Town · default,esx",
+      "players": 0,
+      "maxPlayers": 6,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/z5kboy",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "adam7e",
+      "name": "Aeterna State Roleplay",
+      "sub": "Roleplay Server by Aeterna Team. · roleplay",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/adam7e",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/adam7e/-110343208.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pb8zj7",
+      "name": "TEMPEST TOWN",
+      "sub": "TEMPEST TOWN · TH,RolePlay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pb8zj7",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96j7vm",
+      "name": "Cloudy City",
+      "sub": "ประเทศเปิดใหม่   · default,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96j7vm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96j7vm/495863643.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3z86r8",
+      "name": "🟥  SLUMP City | แจกอาวุธพร้อมบวก 🔥",
+      "sub": "ที่นี่คือ...บ้าน...สำหรับคนที่ไม่ยอมแพ้ · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 32,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3z86r8",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vy97zx",
+      "name": "Q CITY | COMMUNITY",
+      "sub": "th, thai, fivem, esx, community, rp, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vy97zx",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jjpk7a",
+      "name": "HellHunt SRP [TEST]",
+      "sub": "Hell Hunt Hunter SRP Develop by.hellhuntstudio · roleplay, western, bandits",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jjpk7a",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jjpk7a/988404909.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ezjyqd",
+      "name": "Exe ServerTest",
+      "sub": "Exe ServerTest · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ezjyqd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ezjyqd/2031639381.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "adqm35",
+      "name": "SCOUT SCHOOL กำหนดเปิด 26/4/24 เล่นง่าย เล่นสบาย ผู้เล่นใหม่เเจกอาวุธ Tier 1",
+      "sub": "เล่นง่าย เล่นสบาย รองรับผู้เล่นถึง 800 Slot แอดมินดูเเลตลอด 24Hr. · roleplay,thailand,th,school,4king,esx",
+      "players": 0,
+      "maxPlayers": 3,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/adqm35",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/adqm35/2024778068.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "898gkb",
+      "name": "HARIEM[TH CITY]Reset @RebirthzVPS 🔫",
+      "sub": "BY [HARIEM Reset TEAM] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 999,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/898gkb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/898gkb/-1216449444.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r4ljr8",
+      "name": "RESPECT ROLEPLAY : HIPHOP CULTURE & GANGSTER",
+      "sub": "HIPHOP CULTURE & GANGSTER · HipHop , Street Gang , Chicago , RP100%",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ROLEPLAY",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/r4ljr8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/r4ljr8/474822135.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "5k6drd",
+      "name": "[TH] KPOP HIGHT SCHOOL",
+      "sub": "KPOP · default,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/5k6drd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/5k6drd/1579300815.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "da4vdj",
+      "name": "Server NAME",
+      "sub": "reallife,esx,thailand,rp,one sync,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/da4vdj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/da4vdj/-625974609.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgxxle",
+      "name": "4KingGot School Officer",
+      "sub": "[กดเข้าได้เลย discord.gg/EET3vPsk5r SIAM4KINGS4KINGSCHOOLLASTLKKWHATFORPLAYPIGHEHAPARTYFAMILYSTARDOWPLAYGODOFSTORYSOMEONEHAVEYO] · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 800,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgxxle",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgxxle/596376944.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yo6y8m",
+      "name": "[TH] [SERVER]  BY EMOJI",
+      "sub": "BY EMOJI · default,esx",
+      "players": 0,
+      "maxPlayers": 20,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yo6y8m",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ad5oq3",
+      "name": "ad5oq3",
+      "sub": "4king, pvp, thailand thai, pvp,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ad5oq3",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7a6q9a",
+      "name": "Fantasy Shooter",
+      "sub": "Gun Versus Custom Game Play · shooting, gun, thailand",
+      "players": 0,
+      "maxPlayers": 150,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7a6q9a",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7a6q9a/-935367685.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "a8r463",
+      "name": "COMPTON PVP",
+      "sub": "COMPTON PVP แก๊งค์เมืองเถื่อน · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "BASEFEWTHZ Powered By Fewthz",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/a8r463",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/a8r463/-14013875.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mlk93d",
+      "name": "PREMIUM Shop SERVER1 [ESX]",
+      "sub": "Support PREMIUM Shop [ESX] · EST SERVER2 [QB],TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mlk93d",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mlk93d/1668133449.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3mzb3y",
+      "name": "Joy Growth",
+      "sub": "Server Testing · default, deployer, qbcore, qb-core",
+      "players": 0,
+      "maxPlayers": 64,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3mzb3y",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3mzb3y/-493701130.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "eq7e6p",
+      "name": "Spring City | VERSION 1.10.7",
+      "sub": "BY [SILA TEAM] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/eq7e6p",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/eq7e6p/467439006.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vqb4yx",
+      "name": "g-hk,kskrjv,7'siv",
+      "sub": "Mazzard CORE · th",
+      "players": 0,
+      "maxPlayers": 30,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vqb4yx",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "979yka",
+      "name": "HOME TOWN",
+      "sub": "by Home Team ┃ Discord.gg/hometownv2 · default, hometown, roleplay, rp, thai, thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/979yka",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/979yka/1802329144.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "k59k46",
+      "name": "ESX Version colorful",
+      "sub": "ซัพพอร์ต แค่ตอนตื่น · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ESX",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/k59k46",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "9p4e5e",
+      "name": "VAKENTHIA SRP 1897",
+      "sub": "Vakenthia OFFICIAL · VAKENTHIA, roleplay, gameplay",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/9p4e5e",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/9p4e5e/-732132730.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "p3r8a7",
+      "name": "PKS Racing (เพชรเกษม)",
+      "sub": "แจกรถมากกว่า 60+ คัน แข่งรถ รถซิ่ง ฝึกหัดการขับขี่ มีระบบ VIP · PKS,boxing,community,pvp,gta san andreas,racing,esx",
+      "players": 0,
+      "maxPlayers": 333,
+      "gametype": "NNaridZ ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/p3r8a7",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/p3r8a7/-168330769.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "mo6vma",
+      "name": "Underground Most Wanted",
+      "sub": "By Respect Studio · racing, roleplay, thailand, official,esx",
+      "players": 0,
+      "maxPlayers": 77,
+      "gametype": "Racing semi-roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/mo6vma",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/mo6vma/-1153525797.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qlkpp4",
+      "name": "InTown ServerTest",
+      "sub": "InTown ServerTest · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qlkpp4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qlkpp4/2031639381.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "okgddx",
+      "name": "SMOKE TONW",
+      "sub": "WELCOME TO SM 4KING COMMUNITY ROLEPLAY · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/okgddx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/okgddx/-1417557262.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "el6qed",
+      "name": "SECRET CITY | COMMUNITY & STORY | OPEN XX/XX/2025",
+      "sub": "สังคมดี ฟาร์มง่าย ขายไว มีออโต้ฟาร์ม รองรับสตอรี่แก๊งเดือดๆ · secretcity,rolePlay,community,gang & family, th,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "SECRET CITY",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/el6qed",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/el6qed/-1203776346.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "epobob",
+      "name": "ใช้สำหรับเทสเซิร์ฟเวอร์เท่านั้น",
+      "sub": "discord.gg/blinkcity · roleplay,THAILAND,thailand,Thailand,Thai,Th,th,RP,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/epobob",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/epobob/643198986.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8dpqj4",
+      "name": "BOOM & WHAT Sponsored by [ H`OSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/8dpqj4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8dpqj4/1277413610.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "a7kmxk",
+      "name": "[TH] Test L",
+      "sub": "Test L · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "| BJS TEAM |",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/a7kmxk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/a7kmxk/77397222.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kry5xa",
+      "name": "BEAVER TOWN | COMMUNITY ROLEPLAY",
+      "sub": "BEAVER TOWN | COMMUNITY ROLEPLAY · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/kry5xa",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kry5xa/-1580062677.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4o3y4o",
+      "name": "Uprising | By",
+      "sub": "Open-Beta  · roleplay, western, bandits",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4o3y4o",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4o3y4o/-965114835.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xjblbr",
+      "name": "Metro Town",
+      "sub": "by Metro Team ┃ https://discord.gg/5Sc2qrmvn4 · roleplay, Thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xjblbr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xjblbr/-834064746.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zr5k54",
+      "name": "Savage 3.0 💗",
+      "sub": "Coming Soon...... · esx,roleplay,pvp,th,school,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "SAVAGE CITY",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/zr5k54",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zr5k54/-886739261.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vzdmge",
+      "name": "HILL TOWN",
+      "sub": "Community discord.gg/hill BY HILL  · default,thailand,Roleplay,Community,HILL,HILLTOWN,เปิดใหม่,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vzdmge",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vzdmge/-1693494849.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lvkgx4",
+      "name": "Hashtag Story 2.0",
+      "sub": "BY Hashtag Studio · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lvkgx4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lvkgx4/-1636401117.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r7ybgx",
+      "name": "HIGH AND LOW TEST",
+      "sub": "ของพร้อมเล่น แจกหนักจัดเต็ม · ESX,TH,4king,boxing,school,highschol,TH,THAILAND,thailand,Thailand,Thai,Th,th,toxic100,trainning,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Powered by Qubit Core",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/r7ybgx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/r7ybgx/953257101.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lkvrz5",
+      "name": "Scam City | Gang Gang",
+      "sub": "เซิฟนี้เข้าฟรีเข้าได้เข้าเลย · default, esx, esx legacy, official, roleplay",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lkvrz5",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yobymy",
+      "name": "SERVER XXXXXX.",
+      "sub": "TEST SERVER · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yobymy",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jj9qyl",
+      "name": "SIXTY TOWN | แจกไม้คริร้อยพร้อมเล่น!!",
+      "sub": "discord.gg/xxxx · Roleplayommunity,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jj9qyl",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jj9qyl/-1886326298.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8p5zev",
+      "name": "WHAT SPACE 3.0 Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT SPACE DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 7,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/8p5zev",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8p5zev/-1722449410.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6gebpd",
+      "name": "STAR EMPIRE : No Toxic Community School อาวุธฟรีขึ้นง่าย เน้นกิจกรรมเป็นส่วนรวม",
+      "sub": "roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6gebpd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6gebpd/-1110419406.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "balojb",
+      "name": "Bright City & Community",
+      "sub": "Bright City & Community · esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "BASEFEWTHZ Powered By Fewthz",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/balojb",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/balojb/-864852270.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g7ez3m",
+      "name": "Exotic Sever",
+      "sub": "เมืองเปิดใหม่ พร้อมลั่นแล้ววันนี้ ลั่นแน่นอน · default,rangsit,รังสิตซิตี้,รังสิต,roleplay,community,family,th,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g7ez3m",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/g7ez3m/-1445236195.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g6py7m",
+      "name": "Charlotte Town",
+      "sub": "Charlotte Town เปิดใหม่ ฟรีไวริส ฟาร์มง่าย สาวเยอะ หนุ่มเพียบ · default,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g6py7m",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/g6py7m/-1454710410.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96vkyk",
+      "name": "NEW LIFE HRP",
+      "sub": "NEW LIFE AND BEGINNING · default, qbox",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96vkyk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96vkyk/-1354268741.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "e45xj3",
+      "name": "Boost Boost",
+      "sub": "esx",
+      "players": 0,
+      "maxPlayers": 20,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/e45xj3",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yo4gdj",
+      "name": "HUGME SCHOOL | HUGME WORLD !",
+      "sub": "thailand, community, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 999,
+      "gametype": "x",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yo4gdj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yo4gdj/672652355.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vxxv6q",
+      "name": "CLOVER X SCHOOL",
+      "sub": "แนวโรงเรียน เปิดใหม่ ขึ้นอาวุธง่าย ฟามง่าย  · default,esx",
+      "players": 0,
+      "maxPlayers": 33,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vxxv6q",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vxxv6q/1784305825.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zqy7o5",
+      "name": "NewBase",
+      "sub": "NewBase · Community, Roleplay, TH, Thailand,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/zqy7o5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zqy7o5/-52989914.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3eoggz",
+      "name": "WHAT SPACE 3.0 Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT SPACE DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/3eoggz",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/3eoggz/-1722449410.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "rlkqq8",
+      "name": "XD PROJECT | Backend By XD.TECT",
+      "sub": "TEST SERVER · default, esx, esx legacy, official, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/rlkqq8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/rlkqq8/295100889.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4o35o9",
+      "name": "NZ_SCRIPT จำหน่ายสคริปต์",
+      "sub": "มีบริการล็อคไฟล์ด้วยบอท · thailand, reallife, serious, roleplay, 4king,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4o35o9",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4o35o9/-556015175.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "d4vglj",
+      "name": "KPAS | Testing",
+      "sub": "roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "SeriousRoleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/d4vglj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/d4vglj/500288890.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "epqv73",
+      "name": "TEST ONE UNIVERS 2.0",
+      "sub": "esx, th, rp, community, fivem,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/epqv73",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "v7xgyq",
+      "name": "FruitMix Roleplay server",
+      "sub": "FruitMix casual Roleplay server · roleplay, western, bandits",
+      "players": 0,
+      "maxPlayers": 9,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/v7xgyq",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/v7xgyq/2073076049.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ad3vz5",
+      "name": "default FXServer",
+      "sub": "esx, vrp, custom, 4king, 4kings, XD4KING, เปิดใหม่",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ad3vz5",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgxmae",
+      "name": "Frontier Combat | PVP & Training",
+      "sub": "เซิฟเวอร์ PvP ที่ดีที่สุดสำหรับการฝึกซ้อมเพราะ  ไม่มีมีดเล่มไหน ที่ลับเเล้วไม่คม · thai,thailand,redm,pvp,training,rdr2",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgxmae",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgxmae/-1136063743.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "pbjx48",
+      "name": "Wavevy City Test",
+      "sub": "BY [WAVEVY CITY DEV TEAM] · esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "WAVEVY CITY│BACKEND BY [WAVEVY CITY DEV TEAM]",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/pbjx48",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/pbjx48/-1805144800.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3vyjxr",
+      "name": "SERVER TEST",
+      "sub": "SERVER TEST · esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "SERVER TEST",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3vyjxr",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6j99v8",
+      "name": "KOOL TOWN SERVER BETA !!",
+      "sub": "KOOL TOWN SERVER BETA !! · thailand, th, roleplay, TN,esx",
+      "players": 0,
+      "maxPlayers": 300,
+      "gametype": "Xdev Server",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6j99v8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6j99v8/1910055299.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zrblqp",
+      "name": "101 CITY",
+      "sub": "by [ 101 CITY DEV TEAM ] · th,thai,thailand,rp,community,esx,roleplay,101,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/zrblqp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zrblqp/1721680584.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qlzb7z",
+      "name": "TIDGRAM OFFICIAL 💗",
+      "sub": "TIDGRAM OFFICIAL คอมมูนิตี้ สังคมดี กิจกรรมมากมาย!! · TIDGRAM OFFICIAL, Roleplay, Community, serious, Free, TH, Thailand",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy Optimize By Uppers",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qlzb7z",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qlzb7z/-321753679.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "98y88je",
+      "name": "LASTDAY PVP RETURN",
+      "sub": "เมือง PVP เอาชีวิตรอดสุดมันส์ กิจกรรมแน่น แจกของเพียบ · zombie, survivor, pvp,esx",
+      "players": 0,
+      "maxPlayers": 200,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/98y88je",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/98y88je/-745851686.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bjp9kl",
+      "name": "VEABVARB STORY",
+      "sub": "BY [SWON 888] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bjp9kl",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bjp9kl/-979011648.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7xlg4v",
+      "name": "SOUL CITY",
+      "sub": "ประเทศเปิดใหม่ แจกไม้คริ 100 ฟาร์มออโต้ ยืนเฉยๆ ไม่ต้องโพเสท adminดูแลตลอด 24 ชม. · th, rp, Community,esx",
+      "players": 0,
+      "maxPlayers": 1101,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7xlg4v",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7xlg4v/1739497633.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "o73yrx",
+      "name": "DINO x SCHOOL TEST",
+      "sub": "DINO SCHOOL · thailand,default,school,vs,esx,roleplay,fivem,play,thai,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/o73yrx",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jjzo94",
+      "name": "1MILE TOWN COMMUITY & RACING",
+      "sub": "คอมมูนิตี้และรถซิ่ง ที่ไม่ได้มีแค่ความเร็วหรือการต่อยตี · roleplay,racing,community",
+      "players": 0,
+      "maxPlayers": 3,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jjzo94",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jjzo94/-299142848.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yx8zkk",
+      "name": "Eight City",
+      "sub": "ยกระดับความมันส์ Eight City · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "DeVilOasis",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yx8zkk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yx8zkk/-477175783.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bogbob",
+      "name": "AMBER CITY",
+      "sub": "Default FXServer requiring configuration · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bogbob",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bogbob/-1683170687.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "eqpdyd",
+      "name": "ICON 2.0 @Hostify",
+      "sub": "discord.gg/dekiconcity · default,esx",
+      "players": 0,
+      "maxPlayers": 1024,
+      "gametype": "ICON 2.0",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/eqpdyd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/eqpdyd/1494964750.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "z6rlgd",
+      "name": "4KINGS LAND X REBIRTHZVPS Discord : https://discord.gg/4kingsland",
+      "sub": "Power by External · th-th, thailand, th, roleplay, fivemthailand, Project, community, esx,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "4KINGS LAND",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/z6rlgd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/z6rlgd/345363534.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4d8ja5",
+      "name": "Meow Community (By Meow Community Teams)",
+      "sub": "[ COMING SOON ] · Meow Community,Meow,Community,Thai,roleplay,Five M,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4d8ja5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/4d8ja5/478038997.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8vkrlv",
+      "name": "School Project",
+      "sub": "school,esx",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "School Project",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8vkrlv",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8emek44",
+      "name": "GOD TOWN",
+      "sub": "คอมมูนิตี้ สังคมดี กิจกรรมมากมาย! · Roleplay, Community, serious, Free, TH, Thailand,esx",
+      "players": 0,
+      "maxPlayers": 2048,
+      "gametype": "4KING IMPERIAL",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8emek44",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8emek44/-1535502549.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bdxxxb4",
+      "name": "Voice",
+      "sub": "default, esx, esx legacy, legacy, official, roleplay",
+      "players": 0,
+      "maxPlayers": 1400,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bdxxxb4",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zp7ejd",
+      "name": "TEST SERVER @HOSTIFY",
+      "sub": "discord.gg/xxx · TH, School, Community, Sanrio,esx",
+      "players": 0,
+      "maxPlayers": 500,
+      "gametype": "HIGH&LOW SCHOOL",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/zp7ejd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zp7ejd/1716725466.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "97x9mm",
+      "name": "WHAT UNIVERSAL Sponsored by [ HOSTIFY ] ADM TEST |",
+      "sub": "by [ WHAT CITY DEV TEAM ] ADM TEST · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/97x9mm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/97x9mm/-1127889262.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "895vpm",
+      "name": "DIAMOND CITY  |  BETA TEST",
+      "sub": "BY [DUCKY TEAM] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/895vpm",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xqyg95",
+      "name": "PLASMA BASEROLEPLAY | VERSION 1.10.7",
+      "sub": "BY [PLASMA TEAM] · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xqyg95",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xqyg95/-1899810443.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "okq5y7",
+      "name": "THE BLOCK SHOOTING",
+      "sub": "[กดเข้าได้เลย discord.gg/sswYnNazNZ SIAM4KINGS4KINGSCHOOLLASTLKKWHATFORPLAYPIGHEHAPARTYFAMILYSTARDOWPLAYGODOFSTORYSOMEONEHAVEYOPKS] · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/okq5y7",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/okq5y7/-1910219395.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lqd5zo",
+      "name": "Nomyen Production",
+      "sub": "Nomyen Production · TH,RolePlay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lqd5zo",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "da65rq",
+      "name": "IONIC TOWN",
+      "sub": "TH,Comunity,RolePlay,esx",
+      "players": 0,
+      "maxPlayers": 1024,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/da65rq",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/da65rq/-2011159277.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "89yv55",
+      "name": "TLRP 2.0 @REBIRTHZVPS",
+      "sub": "ย้อนวันวานในโลก RP สบาย ๆ ทำงาน หาเงิน ใช้ชีวิต และอยู่ร่วมกับคอมมูที่อบอุ่นที่สุด · roleplay,esx,community,th,newbie-friendly,thai,esx",
+      "players": 0,
+      "maxPlayers": 200,
+      "gametype": "VECORE By venus",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/89yv55",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/89yv55/-350004073.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jk7rmk",
+      "name": "WHAT UNIVERSAL Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/jk7rmk",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jk7rmk/-1127889262.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "z7b4md",
+      "name": "SOCIETY SCHOOL",
+      "sub": "SOCIETY SCHOOL · thailand,4King,th,esx,test,community,boxing,toxic100,rp,esx",
+      "players": 0,
+      "maxPlayers": 999,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/z7b4md",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/z7b4md/1316383974.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bldbgp",
+      "name": "WISLY TEST SCHOOL | VERSION 1.0",
+      "sub": "BY [WISLY TEAM] · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,school,School,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bldbgp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bldbgp/-608581348.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "o8gbbj",
+      "name": "HANKITA ROLEPLAY",
+      "sub": "Close Beta · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/o8gbbj",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/o8gbbj/-2016001615.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8rj7m5",
+      "name": "MidNight Impossible",
+      "sub": "MidNight Impossible · thailand,story,RP,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8rj7m5",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "6aj7dd",
+      "name": "4King P&M",
+      "sub": "Dev By Diamondeach · 4King,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "4King P&M | Dev By Diamond&Beach",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/6aj7dd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/6aj7dd/121650214.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "r6kv3j",
+      "name": "SEACON CITY",
+      "sub": "by [ SEACON TEAM ] · default, esx, esx legacy, official, roleplay, rp, community, sc, seacon,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/r6kv3j",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/r6kv3j/-1955103362.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "p3xog5",
+      "name": "Secret",
+      "sub": "SecretX · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "BASE XXX",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/p3xog5",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "4o89xo",
+      "name": "Voice Server [External]",
+      "sub": "Mumble Dedicated Voice Server · voice, mumble",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/4o89xo",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ok4jzx",
+      "name": "4KING BETA",
+      "sub": "ฟรีไวลิส สังคมดี อาวุธฟรี รถฟรี ▐ เซิร์ฟแนวโรงเรียนเปิดใหม่ ▐ Discord.gg/ ▐ SCHOOL · 4king,pvp,thailand,thai,school,esx,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ok4jzx",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ok4jzx/1598427081.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7gbakd",
+      "name": "Test Server",
+      "sub": "By NexWave Studio · roleplay, fantasy, mmo, NexWave Studio,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7gbakd",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "5dkyq6",
+      "name": "ซัมเมอร์ซิตี้",
+      "sub": "discord.gg/summer-city · default, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 1200,
+      "gametype": "Winter",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/5dkyq6",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/5dkyq6/1238488509.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yolob5",
+      "name": "THEBUNER TOWN | THAI_SRP",
+      "sub": "THEBUNER THAITOWN · roleplay,esx",
+      "players": 0,
+      "maxPlayers": 150,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yolob5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/yolob5/-1883613500.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgqgg5",
+      "name": "Aethera Palace",
+      "sub": "Aethera Palace of Magical Arts and Society · magical, roleplay, srp, reallife, fantasy",
+      "players": 0,
+      "maxPlayers": 8,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgqgg5",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgqgg5/-1357696134.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96vxxm",
+      "name": "ST Dev Mode",
+      "sub": "ST Dev Mode · TH,Serious RolePlay,esx",
+      "players": 0,
+      "maxPlayers": 1500,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96vxxm",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qglljv",
+      "name": "WHAT UNIVERSAL Sponsored by [ HOSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/qglljv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qglljv/-1127889262.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "xmqkbg",
+      "name": "SRB-RACING",
+      "sub": "[กดเข้าได้เลย discord.gg/sswYnNazNZ SIAM4KINGS4KINGSCHOOLLASTLKKWHATFORPLAYPIGHEHAPARTYFAMILYSTARDOWPLAYGODOFSTORYSOMEONEHAVEYOPKS] · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "4kingLegency",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/xmqkbg",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/xmqkbg/-2006610635.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7qlbyr",
+      "name": "VELO UNITY",
+      "sub": "roleplay, Community ,Thailand,esx",
+      "players": 0,
+      "maxPlayers": 256,
+      "gametype": "Powered By Esx , Codexito",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7qlbyr",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7qlbyr/-1451221455.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "ryj9r8",
+      "name": "BoxBox",
+      "sub": "Boxing & Training EU/TH · thai,ต่อย,ซ้อมต่อย,Thai,Th,TH,THAILAND,th,Eu,EU,eu,Eu/Th,th/eu,Boxing,Training,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/ryj9r8",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/ryj9r8/-1502030850.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "q3avq4",
+      "name": "BOOM & WHAT Sponsored by [ H`OSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/q3avq4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/q3avq4/1277413610.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96mmme",
+      "name": "Inferno SRP|1800's",
+      "sub": "Inferno SRP 1800's : Dark Fantasy · roleplay, text-voice",
+      "players": 0,
+      "maxPlayers": 64,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96mmme",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96mmme/-9279903.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "3ekbvb",
+      "name": "โรงเรียนเป็ด | เปิดใหม่เล่นง่ายเข้าได้เลย | https://discord.gg/ts4PB6TjZA",
+      "sub": "ฟรีไวลิส เซิฟแนวโรงเรียน แจกเยอะเล่นง่าย school 4king community · 4king, school, community,esx",
+      "players": 0,
+      "maxPlayers": 700,
+      "gametype": "Powered by Qubit Core",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/3ekbvb",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96rrra",
+      "name": "[TH] Aura Test",
+      "sub": "Aura Test · default,esx",
+      "players": 0,
+      "maxPlayers": 100,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/96rrra",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96rrra/-1654138602.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lvjx45",
+      "name": "Base 4King",
+      "sub": "DAY <<< · 4King, TH, หาของง่าย, สนุก,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Roleplay",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lvjx45",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lvjx45/-1899810443.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "plq3qm",
+      "name": "Leto City 1.0 | Discord.gg/mfm9BGChZW | RP Community",
+      "sub": "เซิฟเวอร์เปิดใหม่ กรอกข้อมูลรับไวริสเข้าได้เลย | Discord.gg/mfm9BGChZW| RP Community · TH,roleplay,THAILAND,thailand,Thailand,Thai,Th,th,RP,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "Developer By LetoTeam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/plq3qm",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/plq3qm/60444435.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "rdr98p",
+      "name": "Amelia City - Community",
+      "sub": "FiveM Server Community · Roleplay, MMO",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/rdr98p",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/rdr98p/-121923622.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vgk49q",
+      "name": "SOLAR CITY",
+      "sub": "SOLAR CITY · SOLAR CITY,roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/vgk49q",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vgk49q/403430717.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g6zeqo",
+      "name": "The Last Sunset Test Server",
+      "sub": "RSG RedM Server Build · rsg,roleplay,thai,zombie,srp,apocalypse",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g6zeqo",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/g6zeqo/-1309015545.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "96qy4k",
+      "name": "[DEV] Villain GenZ @HOSTIFY",
+      "sub": "discord.gg/villaincity · TH, RolePlay,,esx",
+      "players": 0,
+      "maxPlayers": 2048,
+      "gametype": "Powered by ESX, CENSOR",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/96qy4k",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/96qy4k/-527178078.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8ra68b",
+      "name": "NhaHug 💗",
+      "sub": "Coming Soon!!!! · roleplay,thailand,TH,Free,roleplay th,th roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8ra68b",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/8ra68b/1706771414.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "okvgk7",
+      "name": "Boost Boost",
+      "sub": "esx",
+      "players": 0,
+      "maxPlayers": 20,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/okvgk7",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "9pkork",
+      "name": "KJKTEST_V2",
+      "sub": "รถMods อัพเดตใหม่ทุกเดือน ล้อMods 500++ ระบบจูน Rabbit_tuner 4.0 พร้อมมันกันหรือยัง · roleplay,TH,THAILAND,thailand,Thailand,Thai,Th,th,esx",
+      "players": 0,
+      "maxPlayers": 32,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/9pkork",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/9pkork/1080731536.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "rj9p6x",
+      "name": "NEW PROJECT 1.0 |Rp Community 1.0",
+      "sub": "NEW PROJECT 1.0 ⮕ > ยังไม่เปิด ⮕ ฟาร์มง่าย ⮕ สังคมดี ⮕ อาวุธติดง่าย T1 100% ⮕ FREEWHILELIST ⮕ ทีมงานดูแลตลอด 🔹 Hg Developer  · roleplay,community,greentown,greencity,rp,hgdev,roleplay,TH,THAILAND,tha",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "SnowyCity",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/rj9p6x",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/rj9p6x/766990964.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "bjaa6p",
+      "name": "Ai 2.0 Build",
+      "sub": "Ai 2.0 Build · esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/bjaa6p",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/bjaa6p/-876397900.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lxval4",
+      "name": "Gu communty Story แจกจนบ้า ตีกันจนหลอน บวกกันเละ",
+      "sub": "GuTest · rp, th-th, th, carlos, carloscity, fivem, thailand, fivemthailand, community, Mongodb, Roleplay, ESX, LEGACY ,esx",
+      "players": 0,
+      "maxPlayers": 5,
+      "gametype": "carloscity",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lxval4",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lxval4/-652818625.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yob6jm",
+      "name": "change-me | ESX Legacy Server",
+      "sub": "The official recipe of the most popular FiveM RP framework, containing Jobs, Housing, Vehicles & more! · default, esx, esx legacy, official, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "FiveM Thailand",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yob6jm",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "kr9466",
+      "name": "Underground City",
+      "sub": "Power By NO MON · default,esx",
+      "players": 0,
+      "maxPlayers": 1024,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/kr9466",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/kr9466/1296644972.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qlmeg4",
+      "name": "B!",
+      "sub": "discord.gg/ · default, deployer,esx",
+      "players": 0,
+      "maxPlayers": 6,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qlmeg4",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "da5dej",
+      "name": "^เซิฟเทสจ้า",
+      "sub": "เซิฟเทสจ้า · default,esx",
+      "players": 0,
+      "maxPlayers": 1500,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/da5dej",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/da5dej/1575920118.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "jjlxxa",
+      "name": "SKY CITY",
+      "sub": "discord.gg/skycity · default, skycity, sky,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/jjlxxa",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/jjlxxa/660796887.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "yo3ddk",
+      "name": "BKK CITY",
+      "sub": "BKK OFFICIAL · BKK, Community, official, Roleplay, Fivem, FivemThailand,esx",
+      "players": 0,
+      "maxPlayers": 1200,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/yo3ddk",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "qllbev",
+      "name": "ToyToo Test",
+      "sub": "เซิร์ฟเวอร์เปิดใหม่แนวโรงเรียน SCHOOL ACADEMY 4KING COMMU · custom, school, thailand,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "| BACKEND BY FRIENDLY FIRE STUDIO |",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/qllbev",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/qllbev/389421174.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "8d5al5",
+      "name": "COMMU3",
+      "sub": "COMMU3 · default, Serious RolePlay, RolePlay, TH, Training, Esport,esx",
+      "players": 0,
+      "maxPlayers": 1500,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/8d5al5",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "zeykly",
+      "name": "TEST BEAUXBATONS",
+      "sub": "TEST BEAUXBATONS Serious Roleplay 100% · Magic,Wizard,BEAUXBATONS,esx",
+      "players": 0,
+      "maxPlayers": 250,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/zeykly",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/zeykly/-755237636.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "7prakd",
+      "name": "surviveproject",
+      "sub": "https://discord.gg/ANcsVygzHa · roleplay , zombie , survive , apocalypse , story , tactical , community",
+      "players": 0,
+      "maxPlayers": 2,
+      "gametype": "",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/7prakd",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/7prakd/1733010760.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "wkoxqr",
+      "name": "ซ้อมต่อย ซ้อมได้ทุกอย่าง อย่าเครียด เข้าได้เลยไม่ต้องใช้ Steam หรืออะไรทั้งสิ้น",
+      "sub": "เล่นกันสนุกๆอย่าเครียด · ซ้อมต่อย, ซ้อมยิง, เข้าฟรี, ไม่ต้องมีID,1032z, เข้าได้เลยไม่ต้องใช้ Steam,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/wkoxqr",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "g66xzz",
+      "name": "CLOUD TOWN COMMUNITY | RP",
+      "sub": "RP · roleplay,thailand,esx",
+      "players": 0,
+      "maxPlayers": 15,
+      "gametype": "Community RP",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/g66xzz",
+      "icon": null,
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "dpov45",
+      "name": "The Darkness",
+      "sub": "The Darkness",
+      "players": 0,
+      "maxPlayers": 183,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/dpov45",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/dpov45/-612191444.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "lvmv6o",
+      "name": "4U TOWN COMMUNITY",
+      "sub": "กำลังเปิดใหม่ · esx",
+      "players": 0,
+      "maxPlayers": 1500,
+      "gametype": "Freeroam",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/lvmv6o",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/lvmv6o/-1201757912.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "elj5pp",
+      "name": "COMMU8",
+      "sub": "COMMU8 · default, Serious RolePlay, RolePlay, TH, Training, Esport,esx",
+      "players": 0,
+      "maxPlayers": 48,
+      "gametype": "ESX Legacy",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/elj5pp",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/elj5pp/719043653.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "89jjvv",
+      "name": "MOMOSTORE | BY DEVELOPER MOMOO",
+      "sub": "เซิฟเวอร์ทดสอบระบบ · thailand, reallife, roleplay,esx",
+      "players": 0,
+      "maxPlayers": 30,
+      "gametype": "DEV MOMOO",
+      "badge": {
+        "type": "no-ac",
+        "text": "ไม่พบ Anti-Cheat"
+      },
+      "connect": "https://cfx.re/join/89jjvv",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/89jjvv/-1503046267.png",
+      "resourcesCount": 0
+    },
+    {
+      "endpoint": "vg4axe",
+      "name": "BOOM & WHAT Sponsored by [ H`OSTIFY ]",
+      "sub": "by [ WHAT CITY DEV TEAM ] · default, esx, roleplay, reallife,esx",
+      "players": 0,
+      "maxPlayers": 10,
+      "gametype": "",
+      "badge": {
+        "type": "ghostx",
+        "text": "GHOSTX"
+      },
+      "connect": "https://cfx.re/join/vg4axe",
+      "icon": "https://servers-frontend.fivem.net/api/servers/icon/vg4axe/1277413610.png",
+      "resourcesCount": 0
+    }
+  ]
+}
